@@ -22,6 +22,7 @@ while IFS= read -r line; do
     aim_file="./data/pages/${line##*/}.pdf"
     txt_file="./data/plain/${line##*/}.txt"
     if [ ! -f "$aim_file" ]; then
+        echo "downloading ${line} ..."
         wkhtmltopdf --javascript-delay 2000 "${line}" "${aim_file}"
     fi
     if [ ! -f "$txt_file" ]; then
