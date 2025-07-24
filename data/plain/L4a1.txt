@@ -1,0 +1,273 @@
+[
+edit	L4a1	Quick	Notes
+]
+Simple	squared
+depiction
+A	Kolam	with	two
+cycles
+[1]
+	(http://w
+ww.scipress.org/j
+ournals/forma/fra
+me/22.html)
+Hearst	Castle	tile
+[2]
+	(http://www.m
+ath.toronto.edu/~
+drorbn/Gallery/K
+nottedObjects/He
+arstCastleTile.ht
+ml)
+Mosaic	seen	at
+Kibbutz	Lahav	
+[3]
+	
+(http://www.math
+.toronto.edu/~dro
+rbn/Gallery/Knott
+edObjects/Lahav
+Mosaic.html)
+Carving	above
+door	of	church	in
+Italy
+Decorative
+depiction
+(crossings	along
+one	side)
+Linked	hearts
+used	as	symbol	of
+Vendée	region	of
+France
+Heraldic
+ornament.
+Composed	of
+intersecting
+circles.
+Decorative	fitting
+closely	within
+square.
+Ancient	Roman
+mosaic.
+Configuration	of
+three	L4a1
+Configuration	of
+four	L4a1
+L2a1
+L5a1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L4a1	Further	Notes	and	Views
+]
+L4a1
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L4a1
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-3,2,-4:3,-1,4,
+-2)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L4a1
+	is	
+	in	the	Rolfsen	table	of	links.	It
+frequently	occurs	in	late	Roman	mosaics	and	some	medieval
+decorations.	
+In	this	context,	it	is	called	the	"Solomon's	knot"	(sigillum
+Salomonis)	or	"guilloche	knot".	
+It	is	also	the	"Kramo-bone"	symbol
+(meaning	"one	being	bad	makes	all	appear	to	be	bad")	of	the	Adinkra
+symbol	system.	Link	
+L10a101
+	contains	multiple	L4a1	configurations.
+
+Made	of	two
+(impossible)
+Penrose
+rectangles.
+Array	of
+"Solomon's	knots"
+forming	overall
+circular	patterns.
+Medieval
+manuscript
+Medieval
+manuscript
+Medieval
+manuscript
+Rotated	knotwork
+cross	with	eight
+L4a1	sub-
+configurations
+Knotopologynn-
+diagram	for
+"Solomon's	knots"
+Commercial	logo
+Link	Presentations
+[
+edit	Notes	on	L4a1's	Link	Presentations
+]	
+Why	such	an	ugly	Braid	Representative?
+Planar	diagram	presentation
+X
+6172
+	X
+8354
+	X
+2536
+	X
+4718
+Gauss	code
+{1,	-3,	2,	-4},	{3,	-1,	4,	-2}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable	Alexander	Polynomial
+	(in	
+,	
+,	
+,
+...)
+	(
+db
+)
+Jones	polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-PT	polynomial
+	(
+db
+)
+Kauffman	polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along	with	their
+		
+\
+	
+r
+	
+	\	
+	
+-4
+-3
+-2
+-1
+0
+χ
+
+L2a1
+L5a1
+alternating	sums	
+	(fixed	
+,
+alternation	over	
+).
+j
+	
+\
+0
+	
+	
+	
+	
+1
+1
+-2
+	
+	
+	
+1
+1
+0
+-4
+	
+	
+	
+	
+	
+0
+-6
+	
+	
+1
+	
+	
+1
+-8
+1
+	
+	
+	
+	
+1
+-10
+1
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A
+Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L4a1&oldid=1693854
+"
+This	page	was	last	edited	on	27	May	2009,	at	17:20.

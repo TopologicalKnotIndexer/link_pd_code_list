@@ -29,6 +29,7 @@ def main():
     
     # 定义正则表达式模式
     pattern = r'((X(\s)*([\d,\s]+))+)'
+    cnt = 0
     
     try:
         # 编译正则表达式
@@ -37,7 +38,7 @@ def main():
         # 打开输出文件
         with open(output_file, 'w', encoding='utf-8') as outfile:
             # 遍历文件夹中的所有文件
-            for filename in os.listdir(input_folder):
+            for filename in sorted(os.listdir(input_folder)):
                 # 只处理 .txt 文件
                 if filename.endswith('.txt'):
                     file_path = os.path.join(input_folder, filename)
@@ -58,8 +59,13 @@ def main():
                             # 移除所有空白字符
                             cleaned_match = process_pdcode(re.sub(r'\s', '', full_match))
                             
+                            # 计算交叉点个数
+                            crossing_number = int(filename[:-4][1:].split("a")[0].split("n")[0])
+                            assert crossing_number == len(cleaned_match)
+
                             # 写入输出文件
                             outfile.write(f"{filename[:-4]}:{cleaned_match}\n")
+                            cnt += 1
                     
                     except Exception as e:
                         print(f"处理文件 '{filename}' 时出错: {e}")
@@ -67,6 +73,8 @@ def main():
     except Exception as e:
         print(f"执行过程中出错: {e}")
         sys.exit(1)
+    
+    print("成功处理了 %d 个扭结 ..." % cnt)
 
 if __name__ == "__main__":
     main()

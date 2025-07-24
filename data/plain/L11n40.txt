@@ -1,0 +1,297 @@
+[
+edit	L11n40	Quick	Notes
+]
+L11n39
+L11n41
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n40	Further	Notes	and	Views
+]
+L11n40
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n40
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,11,-5,-3:-6,-1,2,5,-4,10,-11,-2,3,6,-7,9,-8,4,-10,7,-9,8)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n40's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,7,13,8
+	X
+4,13,1,14
+	X
+9,18,10,19
+	X
+3849
+	X
+5,14,6,15
+	X
+15,20,16,21
+	X
+17,22,18,5
+	X
+21,16,22,17
+	X
+19,10,20,11
+	X
+11,2,12,3
+Gauss	code
+{1,	11,	-5,	-3},	{-6,	-1,	2,	5,	-4,	10,	-11,	-2,	3,	6,	-7,	9,	-8,	4,	-10,	7,	-9,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-7	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+-10
+	
+	
+	
+	
+	
+	
+	
+3
+	
+	
+3
+-12
+	
+	
+	
+	
+	
+	
+2
+1
+	
+	
+-1
+-14
+	
+	
+	
+	
+	
+5
+3
+	
+	
+	
+2
+-16
+	
+	
+	
+	
+3
+3
+	
+	
+	
+	
+0
+-18
+	
+	
+	
+4
+4
+	
+	
+	
+	
+	
+0
+-20
+	
+	
+2
+3
+	
+	
+	
+	
+	
+	
+1
+-22
+	
+2
+4
+	
+	
+	
+	
+	
+	
+	
+-2
+-24
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-26
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n39
+L11n41
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n40&oldid=111163
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:16.

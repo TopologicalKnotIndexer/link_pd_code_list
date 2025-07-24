@@ -1,0 +1,253 @@
+[
+edit	L11n376	Quick	Notes
+]
+L11n375
+L11n377
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n376	Further	Notes	and	Views
+]
+L11n376
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n376
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,11,-5,-3:-8,7,9,-6:-4,-1,2,5,-10,4,-7,8,-11,-2,3,10,6,-9)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n376's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+14,7,15,8
+	X
+4,15,1,16
+	X
+5,10,6,11
+	X
+3849
+	X
+22,18,19,17
+	X
+11,20,12,21
+	X
+19,12,20,13
+	X
+18,22,5,21
+	X
+9,16,10,17
+	X
+13,2,14,3
+Gauss	code
+{1,	11,	-5,	-3},	{-8,	7,	9,	-6},	{-4,	-1,	2,	5,	-10,	4,	-7,	8,	-11,	-2,	3,	10,	6,	-9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-3
+	
+	
+	
+	
+	
+	
+	
+2
+2
+-5
+	
+	
+	
+	
+	
+	
+1
+2
+1
+-7
+	
+	
+	
+	
+	
+2
+	
+	
+2
+-9
+	
+	
+	
+1
+1
+1
+	
+	
+1
+-11
+	
+	
+	
+4
+2
+	
+	
+	
+2
+-13
+	
+	
+	
+2
+	
+	
+	
+	
+2
+-15
+	
+1
+2
+	
+	
+	
+	
+	
+-1
+-17
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-19
+1
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+L11n375
+L11n377
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n376&oldid=111167
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:16.

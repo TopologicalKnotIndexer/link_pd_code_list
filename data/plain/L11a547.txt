@@ -1,0 +1,351 @@
+[
+edit	L11a547	Quick	Notes
+]
+Link	L11a547.
+A	graph,	L11a547.
+A	part	of	a	knot
+and	a	part	of	a
+graph.
+L11a546
+L11a548
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a547	Further	Notes	and	Views
+]
+L11a547
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a547
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:4,-3,6,-5:10,-1,3,-9,8,-4:11,-2,5,-7,9,-8,7,-6)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a547's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,3,13,4
+	X
+20,7,21,8
+	X
+10,19,5,20
+	X
+22,13,19,14
+	X
+18,21,11,22
+	X
+14,17,15,18
+	X
+16,9,17,10
+	X
+8,15,9,16
+	X
+2536
+	X
+4,11,1,12
+Gauss	code
+{1,	-10,	2,	-11},	{4,	-3,	6,	-5},	{10,	-1,	3,	-9,	8,	-4},	{11,	-2,	5,	-7,	9,	-8,	7,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-11
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+-3
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+7
+	
+	
+7
+-10
+	
+	
+	
+	
+	
+	
+	
+	
+9
+4
+	
+	
+-5
+-12
+	
+	
+	
+	
+	
+	
+	
+15
+7
+	
+	
+	
+8
+-14
+	
+	
+	
+	
+	
+	
+12
+11
+	
+	
+	
+	
+-1
+-16
+	
+	
+	
+	
+	
+15
+13
+	
+	
+	
+	
+	
+2
+-18
+	
+	
+	
+	
+10
+16
+	
+	
+	
+	
+	
+	
+6
+-20
+	
+	
+	
+7
+11
+	
+	
+	
+	
+	
+	
+	
+-4
+-22
+	
+	
+3
+11
+	
+	
+	
+	
+	
+	
+	
+	
+8
+-24
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-26
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-28
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L11a546
+L11a548
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a547&oldid=111182
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:16.

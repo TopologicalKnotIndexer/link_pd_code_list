@@ -1,0 +1,202 @@
+[
+edit	L2a1	Quick	Notes
+]
+Japanese	family
+emblem
+Linked	hearts
+expanded	Kolam
+Two-hearts	
+[1]
+	(ht
+tp://www.scipress
+.org/journals/for
+ma/frame/22.htm
+l)
+Logo
+In	Star	of	David
+form	on	old
+Jewish	building	in
+Prague
+Three	wreaths
+linked	as	two	L2a1
+configurations	on
+Michelangelo's
+tomb
+One	form	of	a
+heterosexuality
+symbol
+(pseudo-3D)
+Are	they	forever
+linked?	
+[2]
+	(http://
+www.math.toront
+o.edu/~drorbn/cla
+sses/0102/Feynma
+nDiagrams/index.
+html#LinkedAni
+mals)
+As	impossible
+object
+Linked	hearts
+(pseudo-3D)
+German	coat	of
+arms
+L2a1
+L4a1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L2a1	Further	Notes	and	Views
+]
+L2a1
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L2a1
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2:2,-1)
+	at
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L2a1
+	is	
+	in	Rolfsen's	table	of	links.	It	is	also
+known	as	the	"Hopf	Link".
+The	sheet	bend	of	practical	knot	tying	deforms	to	the	Hopf	link.
+Link	Presentations
+[
+edit	Notes	on	L2a1's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+4132
+	X
+2314
+Gauss	code
+{1,	-2},	{2,	-1}
+
+L2a1
+L4a1
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable	Alexander	Polynomial
+	(in	
+,	
+,	
+,	...)
+	(
+db
+)
+Jones	polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-PT	polynomial
+	(
+db
+)
+Kauffman	polynomial
+	(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along	with	their
+alternating	sums	
+	(fixed	
+,
+alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+χ
+0
+	
+	
+1
+1
+-2
+	
+	
+1
+1
+-4
+1
+	
+	
+1
+-6
+1
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A
+Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L2a1&oldid=1693892
+"
+This	page	was	last	edited	on	27	May	2009,	at	23:15.

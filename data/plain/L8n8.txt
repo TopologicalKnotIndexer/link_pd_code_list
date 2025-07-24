@@ -1,0 +1,262 @@
+[
+edit	L8n8	Quick	Notes
+]
+Detail	from	an
+18th	century	royal
+decree,	Vietnam.
+L8n7
+L9a1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L8n8	Further	Notes	and	Views
+]
+L8n8
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L8n8
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,-4,5:2,-1,-6,7:-5,4,3,-8:-7,6,8,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L8n8
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L8n8's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+2536
+	X
+16,11,13,12
+	X
+3,11,4,10
+	X
+9,1,10,4
+	X
+7,15,8,14
+	X
+13,5,14,8
+	X
+12,15,9,16
+Gauss	code
+{1,	-2,	-4,	5},	{2,	-1,	-6,	7},	{-5,	4,	3,	-8},	{-7,	6,	8,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+0	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+8
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+4
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+2
+	
+	
+	
+	
+3
+	
+	
+	
+	
+3
+0
+	
+	
+	
+1
+6
+1
+	
+	
+	
+4
+-2
+	
+	
+	
+	
+3
+	
+	
+	
+	
+3
+-4
+	
+	
+1
+	
+	
+	
+	
+	
+	
+1
+-6
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-8
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L8n7
+L9a1
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L8n8&oldid=110413
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:57.

@@ -1,0 +1,251 @@
+[
+edit	L9n14	Quick	Notes
+]
+L9n13
+L9n15
+L9n13
+L9n15
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9n14	Further	Notes	and	Views
+]
+L9n14
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9n14
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,4,-3,9,-5,-6:6,-1,7,3,-2,5,8,-7,-4,2,-9,-8)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9n14
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9n14's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+11,17,12,16
+	X
+3,10,4,11
+	X
+15,3,16,2
+	X
+5,13,6,12
+	X
+6718
+	X
+14,10,15,9
+	X
+18,14,7,13
+	X
+17,4,18,5
+Gauss	code
+{1,	4,	-3,	9,	-5,	-6},	{6,	-1,	7,	3,	-2,	5,	8,	-7,	-4,	2,	-9,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+0
+6
+	
+	
+	
+	
+	
+1
+1
+	
+0
+4
+	
+	
+	
+	
+1
+	
+	
+	
+1
+2
+	
+	
+	
+	
+1
+	
+	
+	
+1
+0
+	
+	
+2
+1
+	
+	
+	
+	
+1
+-2
+	
+	
+1
+	
+	
+	
+	
+	
+1
+-4
+1
+1
+	
+	
+	
+	
+	
+	
+0
+-6
+1
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+
+Retrieved	from	"
+https://katlas.org/index.php?title=L9n14&oldid=111657
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:35.

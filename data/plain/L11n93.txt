@@ -1,0 +1,297 @@
+[
+edit	L11n93	Quick	Notes
+]
+L11n92
+L11n94
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n93	Further	Notes	and	Views
+]
+L11n93
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n93
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,3,-9,8,7,-4,-2,11,-8,9,-3,-5,6,-7,4,-6,5)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n93's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,4,13,3
+	X
+16,8,17,7
+	X
+11,20,12,21
+	X
+17,22,18,5
+	X
+21,18,22,19
+	X
+19,10,20,11
+	X
+14,10,15,9
+	X
+8,16,9,15
+	X
+2536
+	X
+4,14,1,13
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	3,	-9,	8,	7,	-4,	-2,	11,	-8,	9,	-3,	-5,	6,	-7,	4,	-6,	5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+6
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+4
+	
+	
+	
+	
+	
+	
+5
+2
+	
+	
+3
+2
+	
+	
+	
+	
+	
+4
+3
+	
+	
+	
+-1
+0
+	
+	
+	
+	
+6
+5
+	
+	
+	
+	
+1
+-2
+	
+	
+	
+4
+6
+	
+	
+	
+	
+	
+2
+-4
+	
+	
+3
+4
+	
+	
+	
+	
+	
+	
+-1
+-6
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+3
+-8
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+-3
+-10
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n92
+L11n94
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n93&oldid=111409
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:26.

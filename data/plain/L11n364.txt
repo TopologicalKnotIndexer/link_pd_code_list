@@ -1,0 +1,297 @@
+[
+edit	L11n364	Quick	Notes
+]
+L11n363
+L11n365
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n364	Further	Notes	and	Views
+]
+L11n364
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n364
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:-6,5,-9,7,-8,4:10,-1,3,6,-5,-2,11,-3,-7,8,-4,9)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n364's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,4,11,3
+	X
+12,8,13,7
+	X
+15,17,16,22
+	X
+9,18,10,19
+	X
+17,8,18,9
+	X
+13,21,14,20
+	X
+21,15,22,14
+	X
+19,5,20,16
+	X
+2536
+	X
+4,12,1,11
+Gauss	code
+{1,	-10,	2,	-11},	{-6,	5,	-9,	7,	-8,	4},	{10,	-1,	3,	6,	-5,	-2,	11,	-3,	-7,	8,	-4,	9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+χ
+17
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+15
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+13
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+11
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+2
+9
+	
+	
+	
+	
+	
+4
+3
+	
+	
+	
+-1
+7
+	
+	
+	
+	
+5
+4
+	
+	
+	
+	
+1
+5
+	
+	
+	
+3
+6
+	
+	
+	
+	
+	
+3
+3
+	
+	
+3
+3
+	
+	
+	
+	
+	
+	
+0
+1
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+4
+-1
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-3
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n363
+L11n365
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n364&oldid=111422
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:26.

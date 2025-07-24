@@ -1,0 +1,335 @@
+[
+edit	L11n360	Quick	Notes
+]
+L11n359
+L11n361
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n360	Further	Notes	and	Views
+]
+L11n360
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n360
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-11,5,-3:-8,4,-7,6,-10,9:-4,-1,2,-5,-6,7,11,-2,3,8,-9,10)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n360's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,7,13,8
+	X
+4,13,1,14
+	X
+5,18,6,19
+	X
+8493
+	X
+9,21,10,20
+	X
+19,11,20,10
+	X
+17,14,18,15
+	X
+15,22,16,17
+	X
+21,16,22,5
+	X
+2,12,3,11
+Gauss	code
+{1,	-11,	5,	-3},	{-8,	4,	-7,	6,	-10,	9},	{-4,	-1,	2,	-5,	-6,	7,	11,	-2,	3,	8,	-9,	10}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+7
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+-1
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+1
+2
+1
+	
+	
+0
+-1
+	
+	
+	
+	
+	
+	
+1
+4
+2
+	
+	
+	
+1
+-3
+	
+	
+	
+	
+	
+1
+2
+3
+	
+	
+	
+	
+2
+-5
+	
+	
+	
+	
+1
+4
+2
+	
+	
+	
+	
+	
+1
+-7
+	
+	
+	
+1
+1
+3
+	
+	
+	
+	
+	
+	
+3
+-9
+	
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-11
+	
+1
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-13
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-15
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+
+L11n359
+L11n361
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n360&oldid=111574
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:32.

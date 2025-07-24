@@ -1,0 +1,390 @@
+[
+edit	L11a238	Quick	Notes
+]
+L11a237
+L11a239
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a238	Further	Notes	and	Views
+]
+L11a238
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a238
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10,7,-11:9,-1,4,-6,3,-2,10,-5,6,-4,8,-7,11,-8,5,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a238's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+12,4,13,3
+	X
+22,12,7,11
+	X
+16,9,17,10
+	X
+14,22,15,21
+	X
+10,15,11,16
+	X
+18,6,19,5
+	X
+20,18,21,17
+	X
+2738
+	X
+4,14,5,13
+	X
+6,20,1,19
+Gauss	code
+{1,	-9,	2,	-10,	7,	-11},	{9,	-1,	4,	-6,	3,	-2,	10,	-5,	6,	-4,	8,	-7,	11,	-8,	5,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+χ
+18
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+16
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+14
+	
+	
+	
+	
+	
+	
+	
+	
+	
+6
+1
+	
+-5
+12
+	
+	
+	
+	
+	
+	
+	
+	
+9
+3
+	
+	
+6
+10
+	
+	
+	
+	
+	
+	
+	
+10
+6
+	
+	
+	
+-4
+8
+	
+	
+	
+	
+	
+	
+12
+9
+	
+	
+	
+	
+3
+6
+	
+	
+	
+	
+	
+10
+11
+	
+	
+	
+	
+	
+1
+4
+	
+	
+	
+	
+8
+11
+	
+	
+	
+	
+	
+	
+-3
+2
+	
+	
+	
+6
+11
+	
+	
+	
+	
+	
+	
+	
+5
+0
+	
+	
+2
+7
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-2
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+-4
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-6
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Failed	to	parse	(SVG	(MathML	can	be	enabled
+via	browser	plugin):	Invalid	response	("Math
+extension	cannot	connect	to	Restbase.")	from
+server	"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	\dim{\mathcal
+G}_{2r+i}\operatorname{KH}^r_{\mathbb	Z}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot	connect
+to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	i=2}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	i=4}
+Failed	to	parse	(SVG	(MathML	can	be	enabled
+via	browser	plugin):	Invalid	response	("Math
+extension	cannot	connect	to	Restbase.")	from
+server	"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-4}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot	connect
+to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}}
+Failed	to	parse	(SVG	(MathML	can	be	enabled
+via	browser	plugin):	Invalid	response	("Math
+extension	cannot	connect	to	Restbase.")	from
+server	"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-3}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot	connect
+to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+
+L11a237
+L11a239
+Z}^{2}\oplus{\mathbb	Z}_2}
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a238&oldid=111541
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:31.

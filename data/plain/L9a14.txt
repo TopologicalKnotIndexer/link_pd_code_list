@@ -1,0 +1,295 @@
+[
+edit	L9a14	Quick	Notes
+]
+L9a13
+L9a15
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a14	Further	Notes	and	Views
+]
+L9a14
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a14
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-8,2,-9:8,-1,3,-6,4,-7,5,-2,9,-3,6,-4,7,-5)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a14
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a14's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,4,13,3
+	X
+14,8,15,7
+	X
+16,10,17,9
+	X
+18,12,5,11
+	X
+8,16,9,15
+	X
+10,18,11,17
+	X
+2536
+	X
+4,14,1,13
+Gauss	code
+{1,	-8,	2,	-9},	{8,	-1,	3,	-6,	4,	-7,	5,	-2,	9,	-3,	6,	-4,	7,	-5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+χ
+20
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+18
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1
+16
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+-1
+14
+	
+	
+	
+	
+	
+	
+1
+1
+	
+	
+0
+12
+	
+	
+	
+	
+	
+3
+2
+	
+	
+	
+-1
+10
+	
+	
+	
+	
+1
+1
+	
+	
+	
+	
+0
+8
+	
+	
+	
+1
+3
+	
+	
+	
+	
+	
+2
+6
+	
+	
+2
+1
+	
+	
+	
+	
+	
+	
+1
+4
+	
+1
+3
+	
+	
+	
+	
+	
+	
+	
+2
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+0
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L9a13
+L9a15
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a14&oldid=110400
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:37.

@@ -1,0 +1,324 @@
+[
+edit	L9a33	Quick	Notes
+]
+Symmetric	form
+Alternate
+symmetric
+version,	with
+three	lines
+touching	at	center
+Alternate
+symmetric
+version,	with
+three	lines
+touching	at
+circumference
+Form	made	from
+45-degree	lines
+and	circular	arcs.
+Depiction
+obtained	by
+knotilus.
+With	an
+hypotrochoid	
+[1]
+	(
+http://www.math
+curve.com/courb
+es2d/hypotrochoi
+d/hypotrochoid.s
+html)
+.
+Mexican	book.
+L9a32
+L9a34
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a33	Further	Notes	and	Views
+]
+L9a33
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a33
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-7,2,-8,5,-9:7,-1,3,-4,8,-2,4,-6,9,-5,6,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a33
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a33's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+12,3,13,4
+	X
+18,10,7,9
+	X
+10,14,11,13
+	X
+16,5,17,6
+	X
+14,18,15,17
+	X
+2738
+	X
+4,11,5,12
+	X
+6,15,1,16
+Gauss	code
+{1,	-7,	2,	-8,	5,	-9},	{7,	-1,	3,	-4,	8,	-2,	4,	-6,	9,	-5,	6,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+2
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+
+L9a32
+L9a34
+0
+	
+	
+	
+	
+	
+	
+5
+3
+	
+	
+2
+-2
+	
+	
+	
+	
+	
+6
+4
+	
+	
+	
+-2
+-4
+	
+	
+	
+	
+3
+4
+	
+	
+	
+	
+-1
+-6
+	
+	
+	
+4
+6
+	
+	
+	
+	
+	
+2
+-8
+	
+	
+2
+3
+	
+	
+	
+	
+	
+	
+-1
+-10
+	
+	
+4
+	
+	
+	
+	
+	
+	
+	
+4
+-12
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a33&oldid=110424
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:39.

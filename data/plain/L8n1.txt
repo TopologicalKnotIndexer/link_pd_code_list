@@ -1,0 +1,230 @@
+[
+edit	L8n1	Quick	Notes
+]
+L8a21
+L8n2
+L8a21
+L8n2
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L8n1	Further	Notes	and	Views
+]
+L8n1
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L8n1
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,8,-5,-3:-6,-1,2,5,-4,6,-7,4,-8,-2,3,7)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L8n1
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L8n1's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+14,7,15,8
+	X
+4,15,1,16
+	X
+9,12,10,13
+	X
+3849
+	X
+5,11,6,10
+	X
+11,5,12,16
+	X
+13,2,14,3
+Gauss	code
+{1,	8,	-5,	-3},	{-6,	-1,	2,	5,	-4,	6,	-7,	4,	-8,	-2,	3,	7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+χ
+2
+	
+	
+	
+	
+	
+	
+1
+1
+0
+	
+	
+	
+	
+	
+	
+	
+0
+-2
+	
+	
+	
+	
+2
+1
+	
+1
+-4
+	
+	
+	
+1
+1
+	
+	
+0
+-6
+	
+	
+1
+1
+	
+	
+	
+0
+-8
+	
+1
+1
+	
+	
+	
+	
+0
+-10
+1
+1
+	
+	
+	
+	
+	
+0
+-12
+2
+	
+	
+	
+	
+	
+	
+2
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+
+Retrieved	from	"
+https://katlas.org/index.php?title=L8n1&oldid=110443
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:40.

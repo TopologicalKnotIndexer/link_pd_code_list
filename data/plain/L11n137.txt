@@ -1,0 +1,297 @@
+[
+edit	L11n137	Quick	Notes
+]
+L11n136
+L11n138
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n137	Further	Notes	and	Views
+]
+L11n137
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n137
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-4,3,-10,5,-6:6,-1,7,-3,2,-5,-8,11,-9,-7,4,-2,10,8,-11,9)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n137's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+18,11,19,12
+	X
+10,4,11,3
+	X
+2,17,3,18
+	X
+12,5,13,6
+	X
+6718
+	X
+16,10,17,9
+	X
+13,20,14,21
+	X
+15,22,16,7
+	X
+4,20,5,19
+	X
+21,14,22,15
+Gauss	code
+{1,	-4,	3,	-10,	5,	-6},	{6,	-1,	7,	-3,	2,	-5,	-8,	11,	-9,	-7,	4,	-2,	10,	8,	-11,	9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+χ
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+4
+-4
+	
+	
+	
+	
+	
+	
+	
+4
+2
+	
+-2
+-6
+	
+	
+	
+	
+	
+	
+7
+3
+	
+	
+4
+-8
+	
+	
+	
+	
+	
+6
+5
+	
+	
+	
+-1
+-10
+	
+	
+	
+	
+6
+6
+	
+	
+	
+	
+0
+-12
+	
+	
+	
+4
+6
+	
+	
+	
+	
+	
+2
+-14
+	
+	
+3
+6
+	
+	
+	
+	
+	
+	
+-3
+-16
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+3
+-18
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+-3
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n136
+L11n138
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n137&oldid=111794
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:41.

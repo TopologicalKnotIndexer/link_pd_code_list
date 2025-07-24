@@ -1,0 +1,297 @@
+[
+edit	L11n369	Quick	Notes
+]
+L11n368
+L11n370
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n369	Further	Notes	and	Views
+]
+L11n369
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n369
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:6,-5,7,-4,8,-7:10,-1,-3,9,11,-2,5,-6,-9,3,4,-8)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n369's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+7,14,8,15
+	X
+20,16,21,15
+	X
+18,11,19,12
+	X
+12,17,13,18
+	X
+22,20,17,19
+	X
+16,22,5,21
+	X
+13,8,14,9
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-10,	2,	-11},	{6,	-5,	7,	-4,	8,	-7},	{10,	-1,	-3,	9,	11,	-2,	5,	-6,	-9,	3,	4,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+3
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+1
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+-3
+-1
+	
+	
+	
+	
+	
+	
+6
+3
+	
+	
+3
+-3
+	
+	
+	
+	
+	
+6
+6
+	
+	
+	
+0
+-5
+	
+	
+	
+	
+6
+4
+	
+	
+	
+	
+2
+-7
+	
+	
+	
+3
+6
+	
+	
+	
+	
+	
+3
+-9
+	
+	
+4
+6
+	
+	
+	
+	
+	
+	
+-2
+-11
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+4
+-13
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-15
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n368
+L11n370
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n369&oldid=111393
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:25.

@@ -1,0 +1,297 @@
+[
+edit	L11n217	Quick	Notes
+]
+L11n216
+L11n218
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n217	Further	Notes	and	Views
+]
+L11n217
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n217
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,5,-3,6,-7,10,-11,-2:2,-1,-9,3,-8,7,-4,9,-5,11,-10,8,-6,4)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n217's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+8,9,1,10
+	X
+3,12,4,13
+	X
+15,22,16,9
+	X
+17,3,18,2
+	X
+21,4,22,5
+	X
+5,15,6,14
+	X
+13,21,14,20
+	X
+11,16,12,17
+	X
+19,7,20,6
+	X
+7,19,8,18
+Gauss	code
+{1,	5,	-3,	6,	-7,	10,	-11,	-2},	{2,	-1,	-9,	3,	-8,	7,	-4,	9,	-5,	11,	-10,	8,	-6,	4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-2
+4
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+4
+2
+	
+	
+	
+	
+	
+	
+	
+4
+2
+	
+-2
+0
+	
+	
+	
+	
+	
+	
+8
+4
+	
+	
+4
+-2
+	
+	
+	
+	
+	
+6
+6
+	
+	
+	
+0
+-4
+	
+	
+	
+	
+6
+6
+	
+	
+	
+	
+0
+-6
+	
+	
+	
+4
+6
+	
+	
+	
+	
+	
+2
+-8
+	
+	
+2
+6
+	
+	
+	
+	
+	
+	
+-4
+-10
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+3
+-12
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n216
+L11n218
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n217&oldid=111272
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:20.

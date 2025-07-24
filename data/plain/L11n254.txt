@@ -1,0 +1,309 @@
+[
+edit	L11n254	Quick	Notes
+]
+L11n253
+L11n255
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n254	Further	Notes	and	Views
+]
+L11n254
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n254
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-10,4,-11,5,-9,-6,8:9,-1,2,-3,10,-4,-7,6,-8,7,11,-5)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n254's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+12,1,13,2
+	X
+2,13,3,14
+	X
+14,3,15,4
+	X
+16,5,17,6
+	X
+22,7,11,8
+	X
+9,18,10,19
+	X
+17,20,18,21
+	X
+19,10,20,1
+	X
+8,11,9,12
+	X
+4,15,5,16
+	X
+6,21,7,22
+Gauss	code
+{1,	-2,	3,	-10,	4,	-11,	5,	-9,	-6,	8},	{9,	-1,	2,	-3,	10,	-4,	-7,	6,	-8,	7,	11,	-5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-7	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-12
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-14
+	
+	
+	
+	
+	
+	
+1
+	
+	
+	
+	
+1
+-16
+	
+	
+	
+	
+	
+1
+1
+1
+	
+	
+	
+-1
+-18
+	
+	
+	
+	
+1
+1
+	
+	
+	
+	
+	
+0
+-20
+	
+	
+	
+1
+1
+1
+	
+	
+	
+	
+	
+-1
+-22
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-24
+	
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-26
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-28
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n253
+L11n255
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n254&oldid=112303
+"
+This	page	was	last	edited	on	3	September	2005,	at	04:00.

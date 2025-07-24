@@ -1,0 +1,295 @@
+[
+edit	L9a42	Quick	Notes
+]
+L9a41
+L9a43
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a42	Further	Notes	and	Views
+]
+L9a42
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a42
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-7,3,-4,6,-8:4,-1,5,-2,7,-6,8,-5,9,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a42
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a42's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+12,4,13,3
+	X
+18,5,9,6
+	X
+6,9,7,10
+	X
+16,12,17,11
+	X
+14,8,15,7
+	X
+4,14,5,13
+	X
+8,16,1,15
+	X
+2,17,3,18
+Gauss	code
+{1,	-9,	2,	-7,	3,	-4,	6,	-8},	{4,	-1,	5,	-2,	7,	-6,	8,	-5,	9,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+10
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+8
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+-3
+6
+	
+	
+	
+	
+	
+	
+5
+2
+	
+	
+3
+4
+	
+	
+	
+	
+	
+4
+4
+	
+	
+	
+0
+2
+	
+	
+	
+	
+6
+5
+	
+	
+	
+	
+1
+0
+	
+	
+	
+4
+6
+	
+	
+	
+	
+	
+2
+-2
+	
+	
+2
+4
+	
+	
+	
+	
+	
+	
+-2
+-4
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+3
+-6
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-8
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L9a41
+L9a43
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a42&oldid=110371
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:29.

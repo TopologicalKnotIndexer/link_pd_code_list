@@ -1,0 +1,334 @@
+[
+edit	L11n452	Quick	Notes
+]
+L11n451
+L11n453
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n452	Further	Notes	and	Views
+]
+L11n452
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n452
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,8,-7:-9,3,-5,4:11,-2,-3,6,-4,-8,7,9,-6,5)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n452's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+11,20,12,21
+	X
+13,19,14,22
+	X
+21,18,22,9
+	X
+17,13,18,12
+	X
+8,16,5,15
+	X
+14,8,15,7
+	X
+19,17,20,16
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	8,	-7},	{-9,	3,	-5,	4},	{11,	-2,	-3,	6,	-4,	-8,	7,	9,	-6,	5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+6
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+1
+	
+2
+4
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+	
+	
+-1
+2
+	
+	
+	
+	
+	
+	
+5
+2
+1
+	
+	
+	
+4
+0
+	
+	
+	
+	
+	
+5
+8
+1
+	
+	
+	
+	
+2
+-2
+	
+	
+	
+	
+2
+3
+4
+	
+	
+	
+	
+	
+3
+-4
+	
+	
+	
+3
+5
+	
+	
+	
+	
+	
+	
+	
+2
+-6
+	
+	
+3
+2
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-8
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+-10
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-12
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n451
+L11n453
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n452&oldid=111027
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:10.

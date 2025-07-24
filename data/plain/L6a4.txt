@@ -1,0 +1,388 @@
+[
+edit	L6a4	Quick	Notes
+]
+Classic-type
+Borromean	rings
+diagram	with
+color-coded
+circles
+Medieval-style
+representation	of
+the	Borromean
+rings,	used	as	an
+emblem	of
+Lorenzo	de
+Medici	in	San
+Pancrazio,
+Florence
+[1]
+	(http:/
+/www.liv.ac.uk/%
+7Espmr02/rings/
+medici.html)
+A	kolam	with	3
+cycles	
+[2]
+	(http://
+www.scipress.org
+/journals/forma/fr
+ame/22.html)
+A	version	of	the
+coat	of	arms	of
+the	Borromeo
+family
+The	Colombo
+Mall	in	Lisboa	
+[3]
+	
+(http://www.math
+.toronto.edu/~dro
+rbn/Talks/Oporto-
+0407/KnotsInLisb
+oa.html)
+The	Borromean
+rings	as	a	symbol
+of	the	Christian
+Trinity	(based	on
+a	13th-century
+French
+manuscript)
+One	version	of	the
+Germanic
+"Valknut"
+Coat	of	arms	of
+Hallsberg,
+Sweden,	with
+padlocks	in
+Borromean
+configuration
+A	"Borromean"
+bathroom	tile	(the
+Diane	de	Poitiers
+three	interlaced
+crescents
+emblem)	
+[4]
+	(http:
+//www.math.toro
+nto.edu/~drorbn/
+Gallery/KnottedO
+bjects/Winchester
+Borromean.html)
+Rectangles	in
+three	dimensions
+A	Borromean	link
+at	the	Fields
+Institute	
+[5]
+	(http:
+//www.math.toro
+nto.edu/~drorbn/
+Gallery/KnottedO
+bjects/FieldsBorr
+omean.html)
+Basic	black-and-
+white	depiction
+with	minimal
+central	overlap
+3D	depiction
+3D	depiction
+which	purports	to
+show	simple
+circular	toruses
+interlinked	as
+Borromean	rings
+(something	which
+is	actually
+geometrically
+impossible).
+Asymmetrical
+depiction
+Interlaced
+rectangles
+(Miguni,	Fukui,
+Japan).
+L6a3
+L6a5
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L6a4	Further	Notes	and	Views
+]
+L6a4
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L6a4
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-6,5,-3:4,-1,2,-5:6,-4,3,-2)
+	at	
+Knotilus
+	(http://knotilus.
+math.uwo.ca/)
+!
+The	link	
+L6a4
+	is	
+	in	the	Rolfsen	table	of	links.
+It	is	also	known	as	the	"
+Borromean	Link
+"	or	the	"
+Borromean	Rings
+".	
+A	
+Brunnian	link
+	-	no	two	loops	are	linked
+directly	together,	but	all	three	rings	are	collectively	interlinked	
+[9]
+	(http://en.wikipedia.org/wiki/Borromean_rin
+gs)
+.
+Visit	
+Peter	Cromwell
+	(http://www.liv.ac.uk/~spmr02/)
+'s	page	on	the	
+Borromean	Rings
+	(http://www.liv.ac.uk/~sp
+mr02/rings/index.html)
+.
+
+Borromean	rings
+interlinked	with
+cross	as	Christian
+symbol.
+A	practical
+application	of	the
+Borromean	rings
+(Ballard	Locks,
+Seattle)
+Borromean	paper
+clips	
+[6]
+	(http://w
+ww.math.toronto.
+edu/~drorbn/Gall
+ery/KnottedObjec
+ts/BorromeanPap
+erClips.html)
+A	Borromean	link
+by	Dylan
+Thurston	
+[7]
+	(http
+://www.math.toro
+nto.edu/~drorbn/
+Gallery/KnottedO
+bjects/Borromean
+.html)
+A	Borromean
+rattle	by	Sassy	
+[8]
+	
+(http://www.math
+.toronto.edu/~dro
+rbn/Gallery/Knott
+edObjects/Borrom
+eanRattle.html)
+Link	Presentations
+[
+edit	Notes	on	L6a4's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,8,9,7
+	X
+4,12,1,11
+	X
+10,5,11,6
+	X
+8453
+	X
+2,9,3,10
+Gauss	code
+{1,	-6,	5,	-3},	{4,	-1,	2,	-5},	{6,	-4,	3,	-2}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+0	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are
+shown,	along	with	their	alternating	sums	
+(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+7
+	
+	
+	
+	
+	
+	
+1
+-1
+5
+	
+	
+	
+	
+	
+2
+	
+2
+3
+	
+	
+	
+	
+	
+1
+	
+1
+1
+	
+	
+	
+4
+2
+	
+	
+2
+-1
+	
+	
+2
+4
+	
+	
+	
+2
+-3
+	
+1
+	
+	
+	
+	
+	
+1
+-5
+	
+2
+	
+	
+	
+	
+	
+2
+-7
+1
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+		
+
+L6a3
+L6a5
+(
+db
+,	
+data	source
+)
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L6a4&oldid=1693878
+"
+This	page	was	last	edited	on	27	May	2009,	at	23:07.

@@ -1,0 +1,251 @@
+[
+edit	L9n10	Quick	Notes
+]
+L9n9
+L9n11
+L9n9
+L9n11
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9n10	Further	Notes	and	Views
+]
+L9n10
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9n10
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-8,2,-9:8,-1,-3,7,9,-2,5,-6,-7,3,4,-5,6,-4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9n10
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9n10's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+7,14,8,15
+	X
+18,16,5,15
+	X
+16,12,17,11
+	X
+12,18,13,17
+	X
+13,8,14,9
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-8,	2,	-9},	{8,	-1,	-3,	7,	9,	-2,	5,	-6,	-7,	3,	4,	-5,	6,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+4
+	
+	
+	
+	
+	
+	
+2
+	
+2
+2
+	
+	
+	
+	
+	
+2
+1
+	
+-1
+0
+	
+	
+	
+	
+3
+2
+	
+	
+1
+-2
+	
+	
+	
+3
+3
+	
+	
+	
+0
+-4
+	
+	
+2
+2
+	
+	
+	
+	
+0
+-6
+	
+1
+3
+	
+	
+	
+	
+	
+2
+-8
+1
+2
+	
+	
+	
+	
+	
+	
+-1
+-10
+2
+	
+	
+	
+	
+	
+	
+	
+2
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+
+Retrieved	from	"
+https://katlas.org/index.php?title=L9n10&oldid=111503
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:29.

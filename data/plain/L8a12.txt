@@ -1,0 +1,270 @@
+[
+edit	L8a12	Quick	Notes
+]
+L8a11
+L8a13
+L8a11
+L8a13
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L8a12	Further	Notes	and	Views
+]
+L8a12
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L8a12
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-7,3,-5,4,-6,2,-8:7,-1,8,-3,5,-4,6,-2)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L8a12
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L8a12's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+16,7,9,8
+	X
+12,3,13,4
+	X
+14,5,15,6
+	X
+4,13,5,14
+	X
+6,15,7,16
+	X
+2,9,3,10
+	X
+8,11,1,12
+Gauss	code
+{1,	-7,	3,	-5,	4,	-6,	2,	-8},	{7,	-1,	8,	-3,	5,	-4,	6,	-2}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-6
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+-8
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-10
+	
+	
+	
+	
+	
+1
+1
+	
+	
+0
+-12
+	
+	
+	
+	
+2
+1
+	
+	
+	
+1
+-14
+	
+	
+	
+1
+1
+	
+	
+	
+	
+0
+-16
+	
+	
+1
+2
+	
+	
+	
+	
+	
+-1
+-18
+	
+	
+1
+	
+	
+	
+	
+	
+	
+1
+-20
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-22
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L8a12&oldid=110437
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:20.

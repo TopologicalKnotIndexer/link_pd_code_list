@@ -11,6 +11,9 @@ cd "$SCRIPT_DIR" || exit
 mkdir -p ./data/pages
 mkdir -p ./data/plain
 
+# 删除目标文件夹中的所有空文件
+python3 ./scripts/delete_empty_files.py ./data
+
 # 获取主文件
 wget -O ./data/main.html https://katlas.org/wiki/The_Thistlethwaite_Link_Table_L2a1-L11n459
 

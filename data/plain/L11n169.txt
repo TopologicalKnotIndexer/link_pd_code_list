@@ -1,0 +1,335 @@
+[
+edit	L11n169	Quick	Notes
+]
+L11n168
+L11n170
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n169	Further	Notes	and	Views
+]
+L11n169
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n169
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-11,4,-10:10,-1,2,-3,-6,7,11,-4,-5,9,-8,6,-7,5,-9,8)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n169's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+2,9,3,10
+	X
+10,3,11,4
+	X
+14,5,15,6
+	X
+15,20,16,21
+	X
+11,18,12,19
+	X
+19,12,20,13
+	X
+17,22,18,7
+	X
+21,16,22,17
+	X
+6718
+	X
+4,13,5,14
+Gauss	code
+{1,	-2,	3,	-11,	4,	-10},	{10,	-1,	2,	-3,	-6,	7,	11,	-4,	-5,	9,	-8,	6,	-7,	5,	-9,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-7	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-11
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-14
+	
+	
+	
+	
+	
+	
+	
+2
+	
+	
+	
+	
+2
+-16
+	
+	
+	
+	
+	
+	
+1
+1
+1
+	
+	
+	
+-1
+-18
+	
+	
+	
+	
+	
+3
+2
+	
+	
+	
+	
+	
+1
+-20
+	
+	
+	
+	
+2
+2
+1
+	
+	
+	
+	
+	
+-1
+-22
+	
+	
+	
+2
+2
+	
+	
+	
+	
+	
+	
+	
+0
+-24
+	
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-26
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-28
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-30
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n168
+L11n170
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n169&oldid=111622
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:34.

@@ -1,0 +1,292 @@
+[
+edit	L9a55	Quick	Notes
+]
+L9a54
+L9n1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a55	Further	Notes	and	Views
+]
+L9a55
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a55
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,4,-5:2,-1,6,-7:5,-4,3,-9:7,-6,8,-3,9,-8)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a55
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a55's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+2536
+	X
+16,12,17,11
+	X
+10,3,11,4
+	X
+4,9,1,10
+	X
+14,7,15,8
+	X
+8,13,5,14
+	X
+18,16,13,15
+	X
+12,18,9,17
+Gauss	code
+{1,	-2,	4,	-5},	{2,	-1,	6,	-7},	{5,	-4,	3,	-9},	{7,	-6,	8,	-3,	9,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+2
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+0
+	
+	
+	
+	
+	
+	
+5
+3
+	
+	
+2
+-2
+	
+	
+	
+	
+	
+6
+7
+	
+	
+	
+1
+-4
+	
+	
+	
+	
+4
+1
+	
+	
+	
+	
+3
+-6
+	
+	
+	
+1
+6
+	
+	
+	
+	
+	
+5
+-8
+	
+	
+4
+4
+	
+	
+	
+	
+	
+	
+0
+-10
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+4
+-12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L9a54
+L9n1
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a55&oldid=111515
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:30.

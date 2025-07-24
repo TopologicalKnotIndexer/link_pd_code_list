@@ -1,0 +1,297 @@
+[
+edit	L11n116	Quick	Notes
+]
+L11n115
+L11n117
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n116	Further	Notes	and	Views
+]
+L11n116
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n116
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,8,-6:7,-1,-2,11,10,-7,9,-8,4,-5,-11,2,3,-4,5,-3,6,-9)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n116's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+7,17,8,16
+	X
+20,17,21,18
+	X
+18,13,19,14
+	X
+14,19,15,20
+	X
+4,21,1,22
+	X
+10,5,11,6
+	X
+12,3,13,4
+	X
+22,11,5,12
+	X
+2,9,3,10
+	X
+15,9,16,8
+Gauss	code
+{1,	-10,	8,	-6},	{7,	-1,	-2,	11,	10,	-7,	9,	-8,	4,	-5,	-11,	2,	3,	-4,	5,	-3,	6,	-9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+3
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+-3
+-6
+	
+	
+	
+	
+	
+	
+	
+7
+2
+	
+5
+-8
+	
+	
+	
+	
+	
+	
+6
+4
+	
+	
+-2
+-10
+	
+	
+	
+	
+	
+8
+7
+	
+	
+	
+1
+-12
+	
+	
+	
+	
+7
+7
+	
+	
+	
+	
+0
+-14
+	
+	
+	
+4
+7
+	
+	
+	
+	
+	
+-3
+-16
+	
+	
+3
+7
+	
+	
+	
+	
+	
+	
+4
+-18
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+-3
+-20
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-22
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n115
+L11n117
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n116&oldid=111093
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:13.

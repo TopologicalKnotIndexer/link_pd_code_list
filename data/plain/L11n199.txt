@@ -1,0 +1,264 @@
+[
+edit	L11n199	Quick	Notes
+]
+L11n198
+L11n200
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n199	Further	Notes	and	Views
+]
+L11n199
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n199
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-9,-3,7,4,-11:10,-1,11,-2,-6,3,5,-4,-8,6,9,-5,-7,8)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n199's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+12,3,13,4
+	X
+5,14,6,15
+	X
+16,7,17,8
+	X
+20,15,21,16
+	X
+13,18,14,19
+	X
+21,6,22,7
+	X
+17,22,18,9
+	X
+4,19,5,20
+	X
+2,9,3,10
+	X
+8,11,1,12
+Gauss	code
+{1,	-10,	2,	-9,	-3,	7,	4,	-11},	{10,	-1,	11,	-2,	-6,	3,	5,	-4,	-8,	6,	9,	-5,	-7,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+L11n199	ML.gif
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-7	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-8
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+-10
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-12
+	
+	
+	
+	
+1
+1
+1
+	
+	
+1
+-14
+	
+	
+	
+1
+2
+1
+	
+	
+	
+0
+-16
+	
+	
+	
+1
+1
+	
+	
+	
+	
+0
+-18
+	
+	
+2
+2
+	
+	
+	
+	
+	
+0
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-22
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+L11n198
+L11n200
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n199&oldid=112131
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:54.

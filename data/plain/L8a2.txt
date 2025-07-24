@@ -1,0 +1,270 @@
+[
+edit	L8a2	Quick	Notes
+]
+L8a1
+L8a3
+L8a1
+L8a3
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L8a2	Further	Notes	and	Views
+]
+L8a2
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L8a2
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-7,2,-8:7,-1,3,-6,5,-2,8,-3,4,-5,6,-4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L8a2
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L8a2's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,4,11,3
+	X
+12,8,13,7
+	X
+16,14,5,13
+	X
+14,9,15,10
+	X
+8,15,9,16
+	X
+2536
+	X
+4,12,1,11
+Gauss	code
+{1,	-7,	2,	-8},	{7,	-1,	3,	-6,	5,	-2,	8,	-3,	4,	-5,	6,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+8
+	
+	
+	
+	
+	
+	
+	
+2
+	
+-2
+6
+	
+	
+	
+	
+	
+	
+3
+1
+	
+2
+4
+	
+	
+	
+	
+	
+2
+2
+	
+	
+0
+2
+	
+	
+	
+	
+4
+3
+	
+	
+	
+1
+0
+	
+	
+	
+3
+4
+	
+	
+	
+	
+1
+-2
+	
+	
+1
+2
+	
+	
+	
+	
+	
+-1
+-4
+	
+1
+3
+	
+	
+	
+	
+	
+	
+2
+-6
+	
+1
+	
+	
+	
+	
+	
+	
+	
+-1
+-8
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L8a2&oldid=110398
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:10.

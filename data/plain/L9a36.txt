@@ -1,0 +1,295 @@
+[
+edit	L9a36	Quick	Notes
+]
+L9a35
+L9a37
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a36	Further	Notes	and	Views
+]
+L9a36
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a36
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-6,2,-7,4,-8,5,-9:6,-1,3,-2,7,-4,8,-5,9,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a36
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a36's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+12,4,13,3
+	X
+18,12,9,11
+	X
+14,6,15,5
+	X
+16,8,17,7
+	X
+2,9,3,10
+	X
+4,14,5,13
+	X
+6,16,7,15
+	X
+8,18,1,17
+Gauss	code
+{1,	-6,	2,	-7,	4,	-8,	5,	-9},	{6,	-1,	3,	-2,	7,	-4,	8,	-5,	9,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+χ
+20
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+18
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1
+16
+	
+	
+	
+	
+	
+	
+	
+1
+1
+	
+0
+14
+	
+	
+	
+	
+	
+	
+2
+1
+	
+	
+1
+12
+	
+	
+	
+	
+	
+2
+2
+	
+	
+	
+0
+10
+	
+	
+	
+	
+1
+1
+	
+	
+	
+	
+0
+8
+	
+	
+	
+1
+2
+	
+	
+	
+	
+	
+1
+6
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+0
+4
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+0
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L9a35
+L9a37
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a36&oldid=110450
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:27.

@@ -1,0 +1,324 @@
+[
+edit	L8a14	Quick	Notes
+]
+Floor	of	the	Stock
+Exchange	
+[1]
+	(http
+://www.math.toro
+nto.edu/~drorbn/
+Gallery/KnottedO
+bjects/StockExcha
+ngePalace.html)
+Represented	as
+two	interlaced
+squares
+A	mosaic	seen	on
+an	Istanbul	floor
+Coat	of	arms	of
+Jaromě
+ř
+,	Czech
+Republic
+Coat	of	arms	of	St.
+Savior,	Jersey,
+Channel	Islands,
+depicting	Crown
+of	Thorns
+religious	symbol
+Cathedral	in
+Tbilisi,	Georgia
+Coat	of	arms	of
+Mozota,	Spain
+Decorative	motif
+of	interlaced
+squares,	San
+Pancrazio,
+Florence
+Macedonian	cross
+3D	depiction
+Arma	Christi
+carving	in
+monastery	in
+Portugal
+Handewitt,
+Schleswig-
+Holstein	oak
+leaves	and	acorns
+Flower	carpet,
+south	India
+Flower	carpet,
+south	India
+Islamic	art	tile
+Moroccan	craft
+Link	on	a	church
+of	Murato,Corsica
+Logo	of	a	spanish
+hiking	trail
+L8a13
+L8a15
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L8a14	Further	Notes	and	Views
+]
+L8a14
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L8a14
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-7,4,-8,5,-6:6,-1,2,-3,7,-4,8,-5)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L8a14
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L8a14's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+2,11,3,12
+	X
+12,3,13,4
+	X
+14,5,15,6
+	X
+16,7,9,8
+	X
+8,9,1,10
+	X
+4,13,5,14
+	X
+6,15,7,16
+Gauss	code
+{1,	-2,	3,	-7,	4,	-8,	5,	-6},	{6,	-1,	2,	-3,	7,	-4,	8,	-5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-7	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+
+L8a13
+L8a15
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-10
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-14
+	
+	
+	
+	
+1
+1
+	
+	
+	
+0
+-16
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-18
+	
+	
+1
+1
+	
+	
+	
+	
+	
+0
+-20
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-22
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-24
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L8a14&oldid=110416
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:45.

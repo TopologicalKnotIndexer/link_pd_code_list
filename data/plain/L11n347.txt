@@ -1,0 +1,309 @@
+[
+edit	L11n347	Quick	Notes
+]
+L11n346
+L11n348
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n347	Further	Notes	and	Views
+]
+L11n347
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n347
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,-2,11:10,-1,-4,9,6,-7,-3,8:-11,2,7,-6,-5,4,-8,3,-9,5)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n347's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+3,15,4,14
+	X
+11,20,12,21
+	X
+7,18,8,19
+	X
+17,22,18,13
+	X
+16,9,17,10
+	X
+10,15,11,16
+	X
+19,12,20,5
+	X
+21,8,22,9
+	X
+2536
+	X
+13,1,14,4
+Gauss	code
+{1,	-10,	-2,	11},	{10,	-1,	-4,	9,	6,	-7,	-3,	8},	{-11,	2,	7,	-6,	-5,	4,	-8,	3,	-9,	5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+χ
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+-1
+-3
+	
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+2
+-5
+	
+	
+	
+	
+	
+	
+	
+2
+3
+	
+	
+1
+-7
+	
+	
+	
+	
+	
+1
+3
+1
+	
+	
+	
+1
+-9
+	
+	
+	
+	
+	
+1
+2
+	
+	
+	
+	
+1
+-11
+	
+	
+	
+1
+4
+3
+	
+	
+	
+	
+	
+0
+-13
+	
+	
+	
+	
+2
+	
+	
+	
+	
+	
+	
+2
+-15
+	
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+-1
+-17
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-19
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n346
+L11n348
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n347&oldid=111725
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:38.

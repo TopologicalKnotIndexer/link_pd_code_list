@@ -1,0 +1,297 @@
+[
+edit	L11n82	Quick	Notes
+]
+L11n81
+L11n83
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n82	Further	Notes	and	Views
+]
+L11n82
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n82
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,10,-5,-3:-4,-1,2,-11,9,5,-6,7,-8,4,-7,6,-10,-9,11,-2,3,8)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n82's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+20,7,21,8
+	X
+4,21,1,22
+	X
+5,14,6,15
+	X
+3,10,4,11
+	X
+11,16,12,17
+	X
+15,12,16,13
+	X
+13,22,14,5
+	X
+18,9,19,10
+	X
+17,2,18,3
+	X
+8,19,9,20
+Gauss	code
+{1,	10,	-5,	-3},	{-4,	-1,	2,	-11,	9,	5,	-6,	7,	-8,	4,	-7,	6,	-10,	-9,	11,	-2,	3,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+-1
+-8
+	
+	
+	
+	
+	
+	
+	
+4
+	
+	
+4
+-10
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+-2
+-12
+	
+	
+	
+	
+	
+6
+4
+	
+	
+	
+2
+-14
+	
+	
+	
+	
+5
+5
+	
+	
+	
+	
+0
+-16
+	
+	
+	
+5
+5
+	
+	
+	
+	
+	
+0
+-18
+	
+	
+2
+5
+	
+	
+	
+	
+	
+	
+3
+-20
+	
+2
+5
+	
+	
+	
+	
+	
+	
+	
+-3
+-22
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-24
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n81
+L11n83
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n82&oldid=111495
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:29.

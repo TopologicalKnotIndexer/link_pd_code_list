@@ -1,0 +1,290 @@
+[
+edit	L6a3	Quick	Notes
+]
+Ruberman,
+Cochran,	Melvin,
+Akbulut,	Gompf,
+Kirby	
+[1]
+	(https://c
+elebratio.org/Kirb
+y_RC/viewer/562/)
+Rich	Schwartz'
+"72"	
+[2]
+	(http://ww
+w.math.umd.edu/
+~res/poster.html)
+Triangle
+interlaced	with	a
+circle,	a
+traditional
+symbol	of	the
+Christian	Trinity
+(less	used	in
+recent	centuries)
+An	architectural
+trefoil	(the
+outline	of	three
+overlapping
+circles)	interlaced
+with	an
+equilateral
+triangle,	another
+old	Christian
+Trinitarian
+symbol.
+Closed	granny
+knot.
+Celtic	flag
+proposal.
+Flag	of	Blonay,
+Vaud,
+Switzerland.
+"Eye	of
+Providence"
+inside	triangle
+interlaced	with
+circle,	Venice.
+Composed	of
+intersecting
+circles.
+Hindu	hexagram
+symbol	with
+Aum/Om,	from
+Nepal.
+Double
+boomerang-like
+Kolam	and
+Linked	knot,
+Nagata.
+A	carpet.
+ChatGPT	bot	logo.
+L6a2
+L6a4
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L6a3	Further	Notes	and	Views
+]
+L6a3
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L6a3
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-6,4,-5:5,-1,2,-3,6,-4)
+	at	
+Knotilus
+	(
+http://knotilus.math.uwo.ca/)
+!
+The	link	
+L6a3
+	is	
+	in	the	Rolfsen	table	of	links.	It	is	often	seen	in
+"Magen	David"	(star	of	David)	necklaces.
+Link	Presentations
+[
+edit	Notes	on	L6a3's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+2,9,3,10
+	X
+10,3,11,4
+	X
+12,5,7,6
+	X
+6718
+	X
+4,11,5,12
+Gauss	code
+{1,	-2,	3,	-6,	4,	-5},	{5,	-1,	2,	-3,	6,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Further	images
+
+L6a2
+L6a4
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are
+shown,	along	with	their	alternating	sums	
+(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-4
+	
+	
+	
+	
+	
+	
+1
+1
+-6
+	
+	
+	
+	
+	
+	
+1
+1
+-8
+	
+	
+	
+	
+1
+	
+	
+1
+-10
+	
+	
+	
+	
+	
+	
+	
+0
+-12
+	
+	
+1
+1
+	
+	
+	
+0
+-14
+	
+	
+	
+	
+	
+	
+	
+0
+-16
+1
+1
+	
+	
+	
+	
+	
+0
+-18
+1
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`
+Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L6a3&oldid=110418
+"
+This	page	was	last	edited	on	23	February	2007,	at	22:55.

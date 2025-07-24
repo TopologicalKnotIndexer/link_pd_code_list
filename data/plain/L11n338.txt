@@ -1,0 +1,335 @@
+[
+edit	L11n338	Quick	Notes
+]
+L11n337
+L11n339
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n338	Further	Notes	and	Views
+]
+L11n338
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n338
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,-4,5,11,-2,-3,9:-5,4,7,-8,-9,3,6,-7,8,-6)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n338's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+11,18,12,19
+	X
+7,14,8,15
+	X
+13,8,14,9
+	X
+22,20,13,19
+	X
+20,16,21,15
+	X
+16,22,17,21
+	X
+17,12,18,5
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	-4,	5,	11,	-2,	-3,	9},	{-5,	4,	7,	-8,	-9,	3,	6,	-7,	8,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+-1
+	
+	
+	
+	
+	
+	
+	
+	
+3
+2
+	
+	
+1
+-3
+	
+	
+	
+	
+	
+	
+	
+4
+4
+	
+	
+	
+0
+-5
+	
+	
+	
+	
+	
+1
+3
+2
+	
+	
+	
+	
+0
+-7
+	
+	
+	
+	
+	
+2
+4
+	
+	
+	
+	
+	
+2
+-9
+	
+	
+	
+1
+3
+3
+	
+	
+	
+	
+	
+	
+-1
+-11
+	
+	
+	
+	
+4
+	
+	
+	
+	
+	
+	
+	
+4
+-13
+	
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-15
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-17
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+
+L11n337
+L11n339
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n338&oldid=111018
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:10.

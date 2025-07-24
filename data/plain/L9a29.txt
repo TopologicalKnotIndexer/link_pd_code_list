@@ -1,0 +1,295 @@
+[
+edit	L9a29	Quick	Notes
+]
+L9a28
+L9a30
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L9a29	Further	Notes	and	Views
+]
+L9a29
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L9a29
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-7,6,-4:4,-1,2,-3,5,-9,8,-6,7,-5,9,-8)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L9a29
+	is	
+	in	the	Rolfsen	table	of	links.
+Link	Presentations
+[
+edit	Notes	on	L9a29's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+2,9,3,10
+	X
+10,3,11,4
+	X
+6718
+	X
+16,11,17,12
+	X
+14,6,15,5
+	X
+4,16,5,15
+	X
+18,13,7,14
+	X
+12,17,13,18
+Gauss	code
+{1,	-2,	3,	-7,	6,	-4},	{4,	-1,	2,	-3,	5,	-9,	8,	-6,	7,	-5,	9,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+χ
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-4
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+2
+-6
+	
+	
+	
+	
+	
+	
+1
+1
+	
+	
+0
+-8
+	
+	
+	
+	
+	
+3
+2
+	
+	
+	
+1
+-10
+	
+	
+	
+	
+2
+2
+	
+	
+	
+	
+0
+-12
+	
+	
+	
+2
+2
+	
+	
+	
+	
+	
+0
+-14
+	
+	
+1
+2
+	
+	
+	
+	
+	
+	
+1
+-16
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+-1
+-18
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L9a28
+L9a30
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L9a29&oldid=110369
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:09.

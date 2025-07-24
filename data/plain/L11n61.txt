@@ -1,0 +1,274 @@
+[
+edit	L11n61	Quick	Notes
+]
+L11n60
+L11n62
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n61	Further	Notes	and	Views
+]
+L11n61
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n61
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,3,-9,11,-2,4,-8,9,-3,-6,7,8,-4,-5,6,-7,5)
+	at	
+Knotilus
+	(http://knotilus.math.uwo
+.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n61's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+14,8,15,7
+	X
+18,11,19,12
+	X
+19,5,20,22
+	X
+15,21,16,20
+	X
+21,17,22,16
+	X
+12,17,13,18
+	X
+8,14,9,13
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	3,	-9,	11,	-2,	4,	-8,	9,	-3,	-6,	7,	8,	-4,	-5,	6,	-7,	5}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+	
+2
+2
+4
+	
+	
+	
+	
+	
+	
+	
+2
+	
+-2
+2
+	
+	
+	
+	
+	
+	
+3
+2
+	
+1
+0
+	
+	
+	
+	
+	
+4
+3
+	
+	
+-1
+-2
+	
+	
+	
+	
+2
+3
+1
+	
+	
+0
+-4
+	
+	
+	
+3
+4
+	
+	
+	
+	
+1
+-6
+	
+	
+2
+2
+	
+	
+	
+	
+	
+0
+-8
+	
+1
+4
+	
+	
+	
+	
+	
+	
+3
+-10
+	
+1
+	
+	
+	
+	
+	
+	
+	
+-1
+-12
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L11n60
+L11n62
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n61&oldid=111839
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:42.

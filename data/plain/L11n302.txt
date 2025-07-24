@@ -1,0 +1,335 @@
+[
+edit	L11n302	Quick	Notes
+]
+L11n301
+L11n303
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n302	Further	Notes	and	Views
+]
+L11n302
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n302
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,-2,11:10,-1,-7,6,-8,5:-11,2,3,-9,-5,7,-6,8,4,-3,9,-4)
+	at	
+Knotilus
+	(http://knotilus.math.u
+wo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n302's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+3,13,4,12
+	X
+20,13,21,14
+	X
+22,19,11,20
+	X
+15,5,16,10
+	X
+17,9,18,8
+	X
+7,17,8,16
+	X
+9,19,10,18
+	X
+14,21,15,22
+	X
+2536
+	X
+11,1,12,4
+Gauss	code
+{1,	-10,	-2,	11},	{10,	-1,	-7,	6,	-8,	5},	{-11,	2,	3,	-9,	-5,	7,	-6,	8,	4,	-3,	9,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+0	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+χ
+13
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+11
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+9
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+7
+	
+	
+	
+	
+	
+	
+	
+1
+1
+1
+	
+	
+1
+5
+	
+	
+	
+	
+	
+	
+1
+3
+1
+	
+	
+	
+1
+3
+	
+	
+	
+	
+	
+1
+	
+1
+	
+	
+	
+	
+2
+1
+	
+	
+	
+	
+1
+4
+2
+	
+	
+	
+	
+	
+1
+-1
+	
+	
+	
+1
+	
+1
+	
+	
+	
+	
+	
+	
+2
+-3
+	
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-5
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-7
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-9
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n301
+L11n303
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n302&oldid=112218
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:57.

@@ -1,0 +1,575 @@
+[
+edit	L11n77	Quick	Notes
+]
+L11n76
+L11n78
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n77	Further	Notes	and	Views
+]
+L11n77
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n77
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,-2,11:10,-1,-3,9,-6,
+2,-11,8,-7,6,-4,5,-9,7,-8,3,-5,4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n77's	Link	Presentations
+]
+Planar	diagram
+presentation
+X
+6172
+	X
+3,10,4,11
+	X
+7,20,8,21
+	X
+15,5,16,22
+	X
+21,17,22,16
+	X
+9,14,10,15
+	X
+13,19,14,18
+	X
+19,13,20,12
+	X
+17,8,18,9
+X
+2536
+	X
+11,4,12,1
+Gauss	code
+{1,	-10,	-2,	11},	{10,	-1,	-3,	9,	-6,	2,	-11,	8,	-7,	6,	-4,	5,	-9,	7,	-8,	3,	-5,	4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable	Alexander	Polynomial
+	(in	
+Failed	to	parse	(SVG
+(MathML	can	be	enabled	via	browser	plugin):	Invalid	response
+("Math	extension	cannot	connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	u}
+	,	
+Failed	to
+parse	(SVG	(MathML	can	be	enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot	connect	to	Restbase.")	from
+server	"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	v}
+	,
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser	plugin):
+Invalid	response	("Math	extension	cannot	connect	to	Restbase.")
+from	server	"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	w}
+,	...)
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser
+plugin):	Invalid	response	("Math	extension	cannot	connect	to
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	-\frac{u
+v^5-4	u	v^4+7	u	v^3-3	u	v^2-3	v^3+7	v^2-4	v+1}{\sqrt{u}
+v^{5/2}}}
+	
+(
+db
+)
+Jones	polynomial
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser
+plugin):	Invalid	response	("Math	extension	cannot	connect	to
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	-
+q^{5/2}+3	q^{3/2}-6	\sqrt{q}+\frac{8}{\sqrt{q}}-\frac{10}
+{q^{3/2}}+\frac{10}{q^{5/2}}-\frac{9}{q^{7/2}}+\frac{7}{q^{9/2}}-
+\frac{5}{q^{11/2}}+\frac{1}{q^{13/2}}}
+	
+(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-PT	polynomial
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser
+plugin):	Invalid	response	("Math	extension	cannot	connect	to
+
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	-z
+a^7+z^5	a^5+4	z^3	a^5+5	z	a^5+2	a^5	z^{-1}	-z^7	a^3-5	z^5	a^3-
+10	z^3	a^3-11	z	a^3-4	a^3	z^{-1}	+2	z^5	a+7	z^3	a+7	z	a+3	a	z^{-1}
+-z^3	a^{-1}	-2	z	a^{-1}	-	a^{-1}	z^{-1}	}
+	
+(
+db
+)
+Kauffman	polynomial
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser
+plugin):	Invalid	response	("Math	extension	cannot	connect	to
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	a^8
+z^2+5	a^7	z^3-a^7	z+3	a^6	z^6-2	a^6	z^4+a^6+8	a^5	z^7-26	a^5
+z^5+31	a^5	z^3-14	a^5	z+2	a^5	z^{-1}	+7	a^4	z^8-22	a^4	z^6+22
+a^4	z^4-12	a^4	z^2+2	a^4+2	a^3	z^9+6	a^3	z^7-42	a^3	z^5+53
+a^3	z^3-26	a^3	z+4	a^3	z^{-1}	+10	a^2	z^8-37	a^2	z^6+38	a^2
+z^4-16	a^2	z^2+3	a^2+2	a	z^9-a	z^7+z^7	a^{-1}	-20	a	z^5-4	z^5
+a^{-1}	+33	a	z^3+6	z^3	a^{-1}	-17	a	z-4	z	a^{-1}	+3	a	z^{-1}	+	a^{-1}
+z^{-1}	+3	z^8-12	z^6+14	z^4-5	z^2+1}
+	
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	t^rq^j}
+	
+are	shown,	along
+with	their	alternating	sums	
+Failed	to
+parse	(SVG	(MathML	can	be	enabled
+via	browser	plugin):	Invalid	response
+("Math	extension	cannot	connect	to
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	\chi}
+	
+(fixed	
+Failed	to
+parse	(SVG	(MathML	can	be	enabled
+via	browser	plugin):	Invalid	response
+("Math	extension	cannot	connect	to
+Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	j}
+	,	alternation	over
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r}
+	).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+-2
+2
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+3
+0
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+-2
+-2
+	
+	
+	
+	
+	
+6
+4
+	
+	
+	
+2
+-4
+	
+	
+	
+	
+5
+5
+	
+	
+	
+	
+0
+-6
+	
+	
+	
+4
+5
+	
+	
+	
+	
+	
+-1
+-8
+	
+	
+3
+5
+	
+	
+	
+	
+	
+	
+2
+-10
+	
+2
+4
+	
+	
+	
+	
+	
+	
+	
+-2
+-12
+	
+4
+	
+	
+	
+	
+	
+	
+	
+	
+4
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral
+Khovanov
+Homology
+(
+db
+,	
+data
+source
+)
+		
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	\dim{\mathcal
+G}_{2r+i}\operatorname{KH}^r_{\mathbb
+Z}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	i=-4}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	i=-2}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-5}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-4}
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{4}\oplus{\mathbb	Z}_2}
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{2}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-3}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{4}\oplus{\mathbb	Z}_2^{3}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{3}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-2}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{5}\oplus{\mathbb	Z}_2^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=-1}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{5}\oplus{\mathbb	Z}_2^{5}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{5}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=0}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{5}\oplus{\mathbb	Z}_2^{5}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{6}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=1}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{4}\oplus{\mathbb	Z}_2^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=2}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}^{2}\oplus{\mathbb	Z}_2^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{4}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=3}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb
+Z}\oplus{\mathbb	Z}_2^{2}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}^{2}}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	r=4}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}_2}
+Failed	to	parse	(SVG	(MathML	can	be
+enabled	via	browser	plugin):	Invalid
+response	("Math	extension	cannot
+connect	to	Restbase.")	from	server
+"https://wikimedia.org/api/rest_v1/":):
+{\displaystyle	{\mathbb	Z}}
+Computer	Talk
+
+L11n76
+L11n78
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample
+KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n77&oldid=112119
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:53.

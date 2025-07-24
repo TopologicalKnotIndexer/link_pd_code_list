@@ -1,0 +1,297 @@
+[
+edit	L11n107	Quick	Notes
+]
+L11n106
+L11n108
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n107	Further	Notes	and	Views
+]
+L11n107
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n107
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,-2,11:10,-1,-6,5,-7,4,-11,2,-3,9,-8,6,-4,3,-9,7,-5,8)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n107's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+3,13,4,12
+	X
+13,19,14,18
+	X
+17,11,18,10
+	X
+21,9,22,8
+	X
+7,17,8,16
+	X
+9,21,10,20
+	X
+15,5,16,22
+	X
+19,15,20,14
+	X
+2536
+	X
+11,1,12,4
+Gauss	code
+{1,	-10,	-2,	11},	{10,	-1,	-6,	5,	-7,	4,	-11,	2,	-3,	9,	-8,	6,	-4,	3,	-9,	7,	-5,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+χ
+22
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+20
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+18
+	
+	
+	
+	
+	
+	
+	
+5
+1
+	
+-4
+16
+	
+	
+	
+	
+	
+	
+5
+2
+	
+	
+3
+14
+	
+	
+	
+	
+	
+8
+5
+	
+	
+	
+-3
+12
+	
+	
+	
+	
+6
+5
+	
+	
+	
+	
+1
+10
+	
+	
+	
+6
+8
+	
+	
+	
+	
+	
+2
+8
+	
+	
+5
+6
+	
+	
+	
+	
+	
+	
+-1
+6
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+5
+4
+2
+5
+	
+	
+	
+	
+	
+	
+	
+	
+-3
+2
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n106
+L11n108
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n107&oldid=111052
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:11.

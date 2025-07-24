@@ -1,0 +1,236 @@
+[
+edit	L6a5	Quick	Notes
+]
+Stained	glass
+window	of	Trinity
+symbol,	Brazil
+French	coat	of
+arms.
+Russian	coat	of
+arms.
+Russian	passport
+page-number
+decoration.
+L6a4
+L6n1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L6a5	Further	Notes	and	Views
+]
+L6a5
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L6a5
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-5,2,-6:5,-1,3,-4:6,-2,4,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+L6a5
+	is	
+	in	the	Rolfsen	table	of	links.	It	is	a	closed	three-link	chain.
+Link	Presentations
+[
+edit	Notes	on	L6a5's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+12,7,9,8
+	X
+8,11,5,12
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-5,	2,	-6},	{5,	-1,	3,	-4},	{6,	-2,	4,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-1
+	
+	
+	
+	
+	
+	
+1
+1
+-3
+	
+	
+	
+	
+	
+2
+1
+-1
+-5
+	
+	
+	
+	
+1
+	
+	
+1
+-7
+	
+	
+	
+	
+2
+	
+	
+2
+-9
+	
+	
+3
+1
+	
+	
+	
+2
+-11
+	
+1
+3
+	
+	
+	
+	
+2
+-13
+	
+	
+	
+	
+	
+	
+	
+0
+-15
+1
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L6a4
+L6n1
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L6a5&oldid=110414
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:44.

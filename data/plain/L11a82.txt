@@ -1,0 +1,349 @@
+[
+edit	L11a82	Quick	Notes
+]
+L11a81
+L11a83
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a82	Further	Notes	and	Views
+]
+L11a82
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a82
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,3,-8,6,-9,11,-2,4,-5,8,-3,5,-7,9,-6,7,-4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo
+.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a82's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,3,13,4
+	X
+16,8,17,7
+	X
+22,13,5,14
+	X
+14,17,15,18
+	X
+20,10,21,9
+	X
+18,21,19,22
+	X
+8,16,9,15
+	X
+10,20,11,19
+	X
+2536
+	X
+4,11,1,12
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	3,	-8,	6,	-9,	11,	-2,	4,	-5,	8,	-3,	5,	-7,	9,	-6,	7,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+-2
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+6
+1
+	
+5
+2
+	
+	
+	
+	
+	
+	
+	
+	
+8
+2
+	
+	
+-6
+0
+	
+	
+	
+	
+	
+	
+	
+10
+6
+	
+	
+	
+4
+-2
+	
+	
+	
+	
+	
+	
+12
+9
+	
+	
+	
+	
+-3
+-4
+	
+	
+	
+	
+	
+10
+9
+	
+	
+	
+	
+	
+1
+-6
+	
+	
+	
+	
+8
+12
+	
+	
+	
+	
+	
+	
+4
+-8
+	
+	
+	
+6
+10
+	
+	
+	
+	
+	
+	
+	
+-4
+-10
+	
+	
+3
+9
+	
+	
+	
+	
+	
+	
+	
+	
+6
+-12
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-4
+-14
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-16
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L11a81
+L11a83
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a82&oldid=111390
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:25.

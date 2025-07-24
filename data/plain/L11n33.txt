@@ -1,0 +1,335 @@
+[
+edit	L11n33	Quick	Notes
+]
+L11n32
+L11n34
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11n33	Further	Notes	and	Views
+]
+L11n33
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11n33
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-11,5,-3:-6,-1,2,-5,-4,10,-9,6,-7,4,-8,9,-10,8,11,-2,3,7)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11n33's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+20,7,21,8
+	X
+4,21,1,22
+	X
+9,14,10,15
+	X
+8493
+	X
+5,13,6,12
+	X
+13,5,14,22
+	X
+15,18,16,19
+	X
+11,17,12,16
+	X
+17,11,18,10
+	X
+2,20,3,19
+Gauss	code
+{1,	-11,	5,	-3},	{-6,	-1,	2,	-5,	-4,	10,	-9,	6,	-7,	4,	-8,	9,	-10,	8,	11,	-2,	3,	7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+χ
+12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+1
+2
+1
+	
+	
+0
+4
+	
+	
+	
+	
+	
+	
+1
+2
+2
+	
+	
+	
+-1
+2
+	
+	
+	
+	
+	
+2
+3
+2
+	
+	
+	
+	
+1
+0
+	
+	
+	
+	
+2
+4
+2
+	
+	
+	
+	
+	
+0
+-2
+	
+	
+	
+1
+2
+3
+	
+	
+	
+	
+	
+	
+2
+-4
+	
+	
+1
+2
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-6
+	
+1
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-8
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-10
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11n32
+L11n34
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11n33&oldid=111196
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:17.
