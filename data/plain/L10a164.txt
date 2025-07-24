@@ -1,0 +1,316 @@
+[
+edit	L10a164	Quick	Notes
+]
+L10a163
+L10a165
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a164	Further	Notes	and	Views
+]
+L10a164
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a164
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-8,2,-9,7,-10:8,-1,5,-4,6,-3:9,-2,3,-5,10,-7,4,-6)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a164's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+14,3,15,4
+	X
+12,15,7,16
+	X
+10,19,11,20
+	X
+16,9,17,10
+	X
+20,11,13,12
+	X
+18,5,19,6
+	X
+2738
+	X
+4,13,5,14
+	X
+6,17,1,18
+Gauss	code
+{1,	-8,	2,	-9,	7,	-10},	{8,	-1,	5,	-4,	6,	-3},	{9,	-2,	3,	-5,	10,	-7,	4,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+1
+-2
+-7
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+	
+4
+-9
+	
+	
+	
+	
+	
+	
+	
+6
+3
+	
+	
+-3
+-11
+	
+	
+	
+	
+	
+	
+7
+4
+	
+	
+	
+3
+-13
+	
+	
+	
+	
+	
+6
+6
+	
+	
+	
+	
+0
+-15
+	
+	
+	
+	
+7
+7
+	
+	
+	
+	
+	
+0
+-17
+	
+	
+	
+4
+8
+	
+	
+	
+	
+	
+	
+4
+-19
+	
+	
+3
+5
+	
+	
+	
+	
+	
+	
+	
+-2
+-21
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+4
+-23
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-25
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L10a163
+L10a165
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a164&oldid=111665
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:35.

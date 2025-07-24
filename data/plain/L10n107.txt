@@ -1,0 +1,328 @@
+[
+edit	L10n107	Quick	Notes
+]
+"Borromean
+chain-mail"
+represented	with
+circles
+Represented	with
+minimally-
+overlapping
+same-size	circles
+L10n106
+L10n108
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n107	Further	Notes	and	Views
+]
+An	indefinitely	extended	"Borromean	chainmail"	pattern
+made	up	of	overlapping	L10n107	links;	no	two	circles	are
+directly	linked
+.
+L10n107
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n107
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-4,3,-10:-9,2,-7,6:-2,-1,5,-3,-6,8:4,-5,10,9,-8,7)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+L10n107
+	is	the	"Borromean	chain	mail"	link	-	it	contains	two	
+L6a4
+	configurations	without	any	
+L2a1
+	configuration	(i.e.	no
+two	loops	are	linked).
+Compare	
+L10a169
+.
+Link	Presentations
+[
+edit	Notes	on	L10n107's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+5,12,6,13
+	X
+8493
+	X
+2,16,3,15
+	X
+16,7,17,8
+	X
+9,11,10,14
+	X
+13,15,14,20
+	X
+19,5,20,10
+	X
+11,18,12,19
+	X
+4,17,1,18
+Gauss	code
+{1,	-4,	3,	-10},	{-9,	2,	-7,	6},	{-2,	-1,	5,	-3,	-6,	8},	{4,	-5,	10,	9,	-8,	7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+0	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+1
+1
+1
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+	
+1
+2
+	
+	
+	
+	
+	
+5
+2
+1
+	
+	
+	
+4
+0
+	
+	
+	
+	
+2
+8
+2
+	
+	
+	
+	
+4
+-2
+	
+	
+	
+1
+2
+5
+	
+	
+	
+	
+	
+4
+-4
+	
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+1
+
+L10n106
+L10n108
+-6
+	
+1
+1
+1
+	
+	
+	
+	
+	
+	
+	
+1
+-8
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-10
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n107&oldid=1693857
+"
+This	page	was	last	edited	on	27	May	2009,	at	17:22.

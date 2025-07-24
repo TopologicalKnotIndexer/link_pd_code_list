@@ -1,0 +1,271 @@
+[
+edit	L10n19	Quick	Notes
+]
+L10n18
+L10n20
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n19	Further	Notes	and	Views
+]
+L10n19
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n19
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,10,-5,-3:-6,-1,2,5,-8,9,-4,6,-7,4,-9,8,-10,-2,3,7)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n19's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+18,7,19,8
+	X
+4,19,1,20
+	X
+11,14,12,15
+	X
+3849
+	X
+5,13,6,12
+	X
+13,5,14,20
+	X
+9,16,10,17
+	X
+15,10,16,11
+	X
+17,2,18,3
+Gauss	code
+{1,	10,	-5,	-3},	{-6,	-1,	2,	5,	-8,	9,	-4,	6,	-7,	4,	-9,	8,	-10,	-2,	3,	7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+χ
+2
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-2
+	
+	
+	
+	
+	
+	
+3
+1
+	
+2
+-4
+	
+	
+	
+	
+	
+2
+1
+	
+	
+-1
+-6
+	
+	
+	
+	
+3
+2
+	
+	
+	
+1
+-8
+	
+	
+	
+2
+2
+	
+	
+	
+	
+0
+-10
+	
+	
+2
+3
+	
+	
+	
+	
+	
+-1
+-12
+	
+2
+3
+	
+	
+	
+	
+	
+	
+1
+-14
+	
+1
+	
+	
+	
+	
+	
+	
+	
+-1
+-16
+2
+	
+	
+	
+	
+	
+	
+	
+	
+2
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10n18
+L10n20
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n19&oldid=111584
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:32.

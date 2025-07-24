@@ -1,0 +1,324 @@
+[
+edit	L10a169	Quick	Notes
+]
+Japanese	family
+symbol
+L10a168
+L10a170
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a169	Further	Notes	and	Views
+]
+L10a169
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a169
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-4,3,-10:9,-2,7,-6:2,-1,5,-3,6,-8:4,-5,10,-9,8,-7)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+Compare	
+L10n107
+.
+Link	Presentations
+[
+edit	Notes	on	L10a169's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,6,13,5
+	X
+8493
+	X
+2,16,3,15
+	X
+16,7,17,8
+	X
+14,9,11,10
+	X
+20,13,15,14
+	X
+10,19,5,20
+	X
+18,12,19,11
+	X
+4,17,1,18
+Gauss	code
+{1,	-4,	3,	-10},	{9,	-2,	7,	-6},	{2,	-1,	5,	-3,	6,	-8},	{4,	-5,	10,	-9,	8,	-7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+-4
+4
+	
+	
+	
+	
+	
+	
+	
+	
+7
+1
+	
+6
+2
+	
+	
+	
+	
+	
+	
+	
+8
+4
+	
+	
+-4
+0
+	
+	
+	
+	
+	
+	
+14
+7
+	
+	
+	
+7
+-2
+	
+	
+	
+	
+	
+10
+12
+	
+	
+	
+	
+2
+-4
+	
+	
+	
+	
+12
+10
+	
+	
+	
+	
+	
+2
+-6
+	
+	
+	
+7
+14
+	
+	
+	
+	
+	
+	
+7
+-8
+	
+	
+4
+8
+	
+	
+	
+	
+	
+	
+	
+-4
+-10
+	
+1
+7
+	
+	
+	
+	
+	
+	
+	
+	
+6
+-12
+	
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-4
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L10a168
+L10a170
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a169&oldid=111361
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:24.

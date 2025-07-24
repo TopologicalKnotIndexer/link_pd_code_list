@@ -1,0 +1,316 @@
+[
+edit	L10a131	Quick	Notes
+]
+L10a130
+L10a132
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a131	Further	Notes	and	Views
+]
+L10a131
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a131
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10:9,-1,4,-6,7,-5:5,-2,10,-4,3,-8,6,-7,8,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a131's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,4,13,3
+	X
+20,16,11,15
+	X
+14,8,15,7
+	X
+10,12,5,11
+	X
+8,18,9,17
+	X
+18,10,19,9
+	X
+16,20,17,19
+	X
+2536
+	X
+4,14,1,13
+Gauss	code
+{1,	-9,	2,	-10},	{9,	-1,	4,	-6,	7,	-5},	{5,	-2,	10,	-4,	3,	-8,	6,	-7,	8,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+χ
+21
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+19
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+-2
+17
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+3
+15
+	
+	
+	
+	
+	
+	
+	
+6
+3
+	
+	
+-3
+13
+	
+	
+	
+	
+	
+	
+5
+3
+	
+	
+	
+2
+11
+	
+	
+	
+	
+	
+6
+6
+	
+	
+	
+	
+0
+9
+	
+	
+	
+	
+5
+5
+	
+	
+	
+	
+	
+0
+7
+	
+	
+	
+3
+7
+	
+	
+	
+	
+	
+	
+4
+5
+	
+	
+3
+4
+	
+	
+	
+	
+	
+	
+	
+-1
+3
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L10a130
+L10a132
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a131&oldid=111207
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:18.

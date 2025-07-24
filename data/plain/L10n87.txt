@@ -1,0 +1,306 @@
+[
+edit	L10n87	Quick	Notes
+]
+L10n86
+L10n88
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n87	Further	Notes	and	Views
+]
+L10n87
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n87
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10:-7,5,-4,3,-8,6:9,-1,-5,4,10,-2,-3,8,-6,7)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n87's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+11,19,12,18
+	X
+17,9,18,8
+	X
+7,17,8,16
+	X
+13,15,14,20
+	X
+15,5,16,14
+	X
+19,13,20,12
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-9,	2,	-10},	{-7,	5,	-4,	3,	-8,	6},	{9,	-1,	-5,	4,	10,	-2,	-3,	8,	-6,	7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+χ
+15
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+13
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+11
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+9
+	
+	
+	
+	
+	
+	
+	
+1
+1
+	
+	
+0
+7
+	
+	
+	
+	
+	
+1
+2
+1
+	
+	
+	
+0
+5
+	
+	
+	
+	
+	
+1
+2
+	
+	
+	
+	
+1
+3
+	
+	
+	
+1
+2
+1
+	
+	
+	
+	
+	
+0
+1
+	
+	
+	
+	
+2
+	
+	
+	
+	
+	
+	
+2
+-1
+	
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-3
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-5
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10n86
+L10n88
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n87&oldid=111577
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:32.

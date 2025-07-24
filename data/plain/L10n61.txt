@@ -1,0 +1,271 @@
+[
+edit	L10n61	Quick	Notes
+]
+L10n60
+L10n62
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n61	Further	Notes	and	Views
+]
+L10n61
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n61
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,-4,5,-3,4,2,-10,-5,3:9,-1,7,-8,10,-2,6,-7,8,-6)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n61's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+12,1,13,2
+	X
+16,7,17,8
+	X
+5,1,6,10
+	X
+3746
+	X
+9,5,10,4
+	X
+20,17,11,18
+	X
+18,13,19,14
+	X
+14,19,15,20
+	X
+2,11,3,12
+	X
+8,15,9,16
+Gauss	code
+{1,	-9,	-4,	5,	-3,	4,	2,	-10,	-5,	3},	{9,	-1,	7,	-8,	10,	-2,	6,	-7,	8,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+χ
+2
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-2
+0
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+-2
+	
+	
+	
+	
+	
+	
+4
+3
+	
+-1
+-4
+	
+	
+	
+	
+	
+3
+1
+	
+	
+2
+-6
+	
+	
+	
+	
+2
+4
+	
+	
+	
+2
+-8
+	
+	
+	
+4
+3
+	
+	
+	
+	
+1
+-10
+	
+	
+1
+3
+	
+	
+	
+	
+	
+2
+-12
+	
+1
+3
+	
+	
+	
+	
+	
+	
+-2
+-14
+	
+1
+	
+	
+	
+	
+	
+	
+	
+1
+-16
+1
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10n60
+L10n62
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n61&oldid=111883
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:44.

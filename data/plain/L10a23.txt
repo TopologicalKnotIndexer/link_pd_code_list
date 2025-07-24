@@ -1,0 +1,319 @@
+[
+edit	L10a23	Quick	Notes
+]
+L10a22
+L10a24
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a23	Further	Notes	and	Views
+]
+L10a23
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a23
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,7,-5:8,-1,2,-4,3,-7,6,-8,9,-6,10,-2,4,-3,5,-9)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a23's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+16,7,17,8
+	X
+18,9,19,10
+	X
+8,17,9,18
+	X
+4,19,1,20
+	X
+14,12,15,11
+	X
+10,4,11,3
+	X
+12,5,13,6
+	X
+20,13,5,14
+	X
+2,16,3,15
+Gauss	code
+{1,	-10,	7,	-5},	{8,	-1,	2,	-4,	3,	-7,	6,	-8,	9,	-6,	10,	-2,	4,	-3,	5,	-9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+0
+	
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+-2
+-2
+	
+	
+	
+	
+	
+	
+	
+7
+3
+	
+	
+4
+-4
+	
+	
+	
+	
+	
+	
+7
+5
+	
+	
+	
+-2
+-6
+	
+	
+	
+	
+	
+7
+5
+	
+	
+	
+	
+2
+-8
+	
+	
+	
+	
+5
+7
+	
+	
+	
+	
+	
+2
+-10
+	
+	
+	
+5
+7
+	
+	
+	
+	
+	
+	
+-2
+-12
+	
+	
+2
+5
+	
+	
+	
+	
+	
+	
+	
+3
+-14
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+-4
+-16
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-18
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10a22
+L10a24
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a23&oldid=111807
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:41.

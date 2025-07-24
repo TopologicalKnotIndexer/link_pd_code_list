@@ -1,0 +1,330 @@
+[
+edit	L10a118	Quick	Notes
+]
+Rich	Schwartz'
+"25"	
+[1]
+	(http://ww
+w.math.umd.edu/
+~res/poster.html)
+Two	interlaced
+pentagons.
+Two	hollow
+interlaced
+pentagrams.
+L10a117
+L10a119
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a118	Further	Notes	and	Views
+]
+L10a118
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a118
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-8,4,-9,5,-10,6,-7:7,-1,2,-3,8,-4,9,-5,10,-6)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a118's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+12,1,13,2
+	X
+2,13,3,14
+	X
+14,3,15,4
+	X
+16,5,17,6
+	X
+18,7,19,8
+	X
+20,9,11,10
+	X
+10,11,1,12
+	X
+4,15,5,16
+	X
+6,17,7,18
+	X
+8,19,9,20
+Gauss	code
+{1,	-2,	3,	-8,	4,	-9,	5,	-10,	6,	-7},	{7,	-1,	2,	-3,	8,	-4,	9,	-5,	10,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-9	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-12
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+-14
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-16
+	
+	
+	
+	
+	
+	
+1
+1
+	
+	
+	
+0
+-18
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-20
+	
+	
+	
+	
+1
+1
+	
+	
+	
+	
+	
+0
+-22
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-24
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+0
+-26
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-28
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-30
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L10a117
+L10a119
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a118&oldid=111284
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:21.

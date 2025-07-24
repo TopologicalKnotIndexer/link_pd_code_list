@@ -1,0 +1,349 @@
+[
+edit	L11a276	Quick	Notes
+]
+L11a275
+L11a277
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a276	Further	Notes	and	Views
+]
+L11a276
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a276
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,3,-10,4,-11,5,-9:9,-1,2,-3,10,-4,7,-8,11,-5,6,-7,8,-6)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a276's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+2,11,3,12
+	X
+12,3,13,4
+	X
+14,5,15,6
+	X
+18,7,19,8
+	X
+22,20,9,19
+	X
+20,16,21,15
+	X
+16,22,17,21
+	X
+8,9,1,10
+	X
+4,13,5,14
+	X
+6,17,7,18
+Gauss	code
+{1,	-2,	3,	-10,	4,	-11,	5,	-9},	{9,	-1,	2,	-3,	10,	-4,	7,	-8,	11,	-5,	6,	-7,	8,	-6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+-1
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+	
+2
+-6
+	
+	
+	
+	
+	
+	
+	
+3
+3
+	
+	
+	
+0
+-8
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+	
+	
+2
+-10
+	
+	
+	
+	
+	
+3
+3
+	
+	
+	
+	
+	
+0
+-12
+	
+	
+	
+	
+3
+4
+	
+	
+	
+	
+	
+	
+-1
+-14
+	
+	
+	
+2
+3
+	
+	
+	
+	
+	
+	
+	
+1
+-16
+	
+	
+2
+3
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-18
+	
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-20
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-22
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11a275
+L11a277
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a276&oldid=112278
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:59.

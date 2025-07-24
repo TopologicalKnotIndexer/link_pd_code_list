@@ -1,0 +1,319 @@
+[
+edit	L10a34	Quick	Notes
+]
+L10a33
+L10a35
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a34	Further	Notes	and	Views
+]
+L10a34
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a34
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10:9,-1,3,-6,5,-8,7,-2,10,-7,8,-3,4,-5,6,-4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a34's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,4,13,3
+	X
+16,8,17,7
+	X
+20,18,5,17
+	X
+18,9,19,10
+	X
+8,19,9,20
+	X
+14,12,15,11
+	X
+10,16,11,15
+	X
+2536
+	X
+4,14,1,13
+Gauss	code
+{1,	-9,	2,	-10},	{9,	-1,	3,	-6,	5,	-8,	7,	-2,	10,	-7,	8,	-3,	4,	-5,	6,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+χ
+14
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+12
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+-3
+10
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+3
+8
+	
+	
+	
+	
+	
+	
+	
+5
+3
+	
+	
+-2
+6
+	
+	
+	
+	
+	
+	
+7
+4
+	
+	
+	
+3
+4
+	
+	
+	
+	
+	
+5
+5
+	
+	
+	
+	
+0
+2
+	
+	
+	
+	
+6
+7
+	
+	
+	
+	
+	
+-1
+0
+	
+	
+	
+4
+7
+	
+	
+	
+	
+	
+	
+3
+-2
+	
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+-3
+-4
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-6
+	
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-8
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L10a33
+L10a35
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a34&oldid=110992
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:09.

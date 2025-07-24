@@ -1,0 +1,265 @@
+[
+edit	L10n112	Quick	Notes
+]
+L10n111
+L10n113
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n112	Further	Notes	and	Views
+]
+L10n112
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n112
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,-4,5:2,-1,-6,7:-5,4,-3,10:-7,6,-8,9:-10,3,-9,8)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n112's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+2536
+	X
+11,19,12,18
+	X
+3,11,4,10
+	X
+9,1,10,4
+	X
+7,15,8,14
+	X
+13,5,14,8
+	X
+15,17,16,20
+	X
+19,13,20,16
+	X
+17,9,18,12
+Gauss	code
+{1,	-2,	-4,	5},	{2,	-1,	-6,	7},	{-5,	4,	-3,	10},	{-7,	6,	-8,	9},	{-10,	3,	-9,	8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+2	(
+db
+)
+HOMFLY-
+PT	polynomial
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+χ
+19
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+17
+	
+	
+	
+	
+	
+	
+	
+1
+1
+0
+15
+	
+	
+	
+	
+	
+	
+5
+	
+	
+5
+13
+	
+	
+	
+	
+	
+	
+1
+	
+	
+1
+11
+	
+	
+	
+	
+11
+5
+	
+	
+	
+6
+9
+	
+	
+	
+4
+10
+	
+	
+	
+	
+6
+7
+	
+	
+6
+1
+	
+	
+	
+	
+	
+5
+5
+1
+	
+4
+	
+	
+	
+	
+	
+	
+5
+3
+5
+6
+	
+	
+	
+	
+	
+	
+	
+-1
+1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+4
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10n111
+L10n113
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n112&oldid=111806
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:41.

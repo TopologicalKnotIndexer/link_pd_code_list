@@ -1,0 +1,319 @@
+[
+edit	L10a70	Quick	Notes
+]
+L10a69
+L10a71
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a70	Further	Notes	and	Views
+]
+L10a70
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a70
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,5,-9,3,-8:6,-1,2,-5,4,-6,8,-3,7,-4,10,-2,9,-7)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a70's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+18,9,19,10
+	X
+14,6,15,5
+	X
+16,12,17,11
+	X
+10,4,11,3
+	X
+12,7,13,8
+	X
+20,15,7,16
+	X
+6,14,1,13
+	X
+4,19,5,20
+	X
+2,18,3,17
+Gauss	code
+{1,	-10,	5,	-9,	3,	-8},	{6,	-1,	2,	-5,	4,	-6,	8,	-3,	7,	-4,	10,	-2,	9,	-7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+χ
+10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+4
+6
+	
+	
+	
+	
+	
+	
+	
+	
+5
+1
+	
+-4
+4
+	
+	
+	
+	
+	
+	
+	
+9
+4
+	
+	
+5
+2
+	
+	
+	
+	
+	
+	
+9
+6
+	
+	
+	
+-3
+0
+	
+	
+	
+	
+	
+10
+8
+	
+	
+	
+	
+2
+-2
+	
+	
+	
+	
+8
+10
+	
+	
+	
+	
+	
+2
+-4
+	
+	
+	
+6
+9
+	
+	
+	
+	
+	
+	
+-3
+-6
+	
+	
+3
+8
+	
+	
+	
+	
+	
+	
+	
+5
+-8
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-10
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-12
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10a69
+L10a71
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a70&oldid=111783
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:40.

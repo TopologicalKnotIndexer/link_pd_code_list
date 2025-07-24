@@ -1,0 +1,321 @@
+[
+edit	L10a116	Quick	Notes
+]
+Symmetric
+depiction
+L10a115
+L10a117
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a116	Further	Notes	and	Views
+]
+L10a116
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a116
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,3,-8,5,-7,6,-4,2,-10:9,-1,10,-3,4,-5,7,-6,8,-2)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a116's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+12,1,13,2
+	X
+20,9,11,10
+	X
+14,3,15,4
+	X
+8,15,9,16
+	X
+16,5,17,6
+	X
+18,7,19,8
+	X
+6,17,7,18
+	X
+4,19,5,20
+	X
+2,11,3,12
+	X
+10,13,1,14
+Gauss	code
+{1,	-9,	3,	-8,	5,	-7,	6,	-4,	2,	-10},	{9,	-1,	10,	-3,	4,	-5,	7,	-6,	8,	-2}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-5	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+-1
+-8
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+	
+3
+-10
+	
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+-2
+-12
+	
+	
+	
+	
+	
+	
+5
+3
+	
+	
+	
+2
+-14
+	
+	
+	
+	
+	
+5
+4
+	
+	
+	
+	
+-1
+-16
+	
+	
+	
+	
+4
+5
+	
+	
+	
+	
+	
+-1
+-18
+	
+	
+	
+3
+5
+	
+	
+	
+	
+	
+	
+2
+-20
+	
+	
+2
+4
+	
+	
+	
+	
+	
+	
+	
+-2
+-22
+	
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-24
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+-26
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L10a115
+L10a117
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a116&oldid=111322
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:22.

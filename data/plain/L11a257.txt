@@ -1,0 +1,394 @@
+[
+edit	L11a257	Quick	Notes
+]
+L11a256
+L11a258
+Contents
+1
+	
+Link
+Presentations
+2
+	
+Polynomial
+invariants
+3
+	
+Khovanov
+Homology
+4
+	
+Computer	Talk
+5
+	
+Modifying	This
+Page
+[
+edit	L11a257	Further	Notes	and	Views
+]
+L11a257
+From	Knot	Atlas
+Jump	to	navigation
+Jump	to	search
+L11a257.gif
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a257
+	at	
+Knotilus
+!
+Link	Presentations
+[
+edit	Notes	on	L11a257's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+12,3,13,4
+	X
+14,5,15,6
+	X
+20,16,21,15
+	X
+16,8,17,7
+	X
+6,21,7,22
+	X
+18,9,19,10
+	X
+22,17,9,18
+	X
+8,20,1,19
+	X
+4,11,5,12
+	X
+2,13,3,14
+Gauss	code
+{1,	-11,	2,	-10,	3,	-6,	5,	-9},	{7,	-1,	10,	-2,	11,	-3,	4,	-5,	8,	-7,	9,	-4,	6,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+L11a257	ML.gif
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+1
+	
+-4
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+8
+3
+	
+	
+5
+-4
+	
+	
+	
+	
+	
+	
+	
+9
+6
+	
+	
+	
+-3
+-6
+	
+	
+	
+	
+	
+	
+10
+7
+	
+	
+	
+	
+3
+-8
+	
+	
+	
+	
+	
+8
+9
+	
+	
+	
+	
+	
+1
+-10
+	
+	
+	
+	
+8
+10
+	
+	
+	
+	
+	
+	
+-2
+-12
+	
+	
+	
+4
+9
+	
+	
+	
+	
+	
+	
+	
+5
+-14
+	
+	
+2
+7
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-16
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-18
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+
+L11a256
+L11a258
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a257&oldid=111668
+"
+Category
+:
+Knot	Page
+Navigation	menu
+Page	actions
+Page
+Discussion
+Read
+View	source
+History
+Page	actions
+Page
+Discussion
+More
+Tools
+Personal	tools
+Log	in
+Navigation
+Main	Page
+To	do	list
+Rolfsen	Table
+Hoste-Thistlethwaite	Table	(11	crossings)
+Link	Table
+Torus	Knots
+KnotTheory`	Manual
+What's	New?
+Recent	changes
+Random	page
+Help
+Search
+Search	Knot	Atlas
+Go
+	
+Search
+Tools
+What	links	here
+Related	changes
+Special	pages
+Printable	version
+Permanent	link
+Page	information
+This	page	was	last	edited	on	3	September	2005,	at	03:36.
+Privacy	policy
+About	Knot	Atlas
+Disclaimers

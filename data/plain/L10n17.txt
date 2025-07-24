@@ -1,0 +1,271 @@
+[
+edit	L10n17	Quick	Notes
+]
+L10n16
+L10n18
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n17	Further	Notes	and	Views
+]
+L10n17
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n17
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,10,-5,-3:-4,-1,2,5,-7,8,-9,4,-6,7,-8,6,-10,-2,3,9)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n17's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+18,7,19,8
+	X
+4,19,1,20
+	X
+5,12,6,13
+	X
+3849
+	X
+13,17,14,16
+	X
+9,15,10,14
+	X
+15,11,16,10
+	X
+11,20,12,5
+	X
+17,2,18,3
+Gauss	code
+{1,	10,	-5,	-3},	{-4,	-1,	2,	5,	-7,	8,	-9,	4,	-6,	7,	-8,	6,	-10,	-2,	3,	9}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+4
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+2
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1
+0
+	
+	
+	
+	
+	
+	
+2
+1
+	
+-1
+-2
+	
+	
+	
+	
+	
+3
+1
+	
+	
+2
+-4
+	
+	
+	
+	
+2
+3
+	
+	
+	
+1
+-6
+	
+	
+	
+3
+2
+	
+	
+	
+	
+1
+-8
+	
+	
+1
+2
+	
+	
+	
+	
+	
+1
+-10
+	
+2
+3
+	
+	
+	
+	
+	
+	
+-1
+-12
+	
+2
+	
+	
+	
+	
+	
+	
+	
+2
+-14
+1
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+L10n16
+L10n18
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n17&oldid=112231
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:57.

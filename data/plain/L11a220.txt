@@ -1,0 +1,349 @@
+[
+edit	L11a220	Quick	Notes
+]
+L11a219
+L11a221
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a220	Further	Notes	and	Views
+]
+L11a220
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a220
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10,5,-11:9,-1,3,-4,10,-2,4,-8,6,-5,11,-7,8,-6,7,-3)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a220's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+8192
+	X
+12,3,13,4
+	X
+22,10,7,9
+	X
+10,14,11,13
+	X
+16,6,17,5
+	X
+20,15,21,16
+	X
+18,21,19,22
+	X
+14,19,15,20
+	X
+2738
+	X
+4,11,5,12
+	X
+6,18,1,17
+Gauss	code
+{1,	-9,	2,	-10,	5,	-11},	{9,	-1,	3,	-4,	10,	-2,	4,	-8,	6,	-5,	11,	-7,	8,	-6,	7,	-3}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+-3
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+6
+1
+	
+5
+2
+	
+	
+	
+	
+	
+	
+	
+	
+9
+3
+	
+	
+-6
+0
+	
+	
+	
+	
+	
+	
+	
+11
+6
+	
+	
+	
+5
+-2
+	
+	
+	
+	
+	
+	
+12
+10
+	
+	
+	
+	
+-2
+-4
+	
+	
+	
+	
+	
+11
+10
+	
+	
+	
+	
+	
+1
+-6
+	
+	
+	
+	
+8
+13
+	
+	
+	
+	
+	
+	
+5
+-8
+	
+	
+	
+6
+10
+	
+	
+	
+	
+	
+	
+	
+-4
+-10
+	
+	
+2
+8
+	
+	
+	
+	
+	
+	
+	
+	
+6
+-12
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-14
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-16
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+
+L11a219
+L11a221
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a220&oldid=112099
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:52.

@@ -1,0 +1,319 @@
+[
+edit	L10a138	Quick	Notes
+]
+L10a137
+L10a139
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a138	Further	Notes	and	Views
+]
+L10a138
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a138
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-4,3,-9:2,-1,5,-3,6,-10,7,-8:8,-2,4,-5,9,-6,10,-7)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10a138's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+14,6,15,5
+	X
+8493
+	X
+2,16,3,15
+	X
+16,7,17,8
+	X
+18,10,19,9
+	X
+20,12,13,11
+	X
+12,14,5,13
+	X
+4,17,1,18
+	X
+10,20,11,19
+Gauss	code
+{1,	-4,	3,	-9},	{2,	-1,	5,	-3,	6,	-10,	7,	-8},	{8,	-2,	4,	-5,	9,	-6,	10,	-7}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+χ
+19
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+17
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+2
+15
+	
+	
+	
+	
+	
+	
+	
+	
+2
+1
+	
+-1
+13
+	
+	
+	
+	
+	
+	
+	
+4
+2
+	
+	
+2
+11
+	
+	
+	
+	
+	
+	
+5
+4
+	
+	
+	
+-1
+9
+	
+	
+	
+	
+	
+3
+2
+	
+	
+	
+	
+1
+7
+	
+	
+	
+	
+3
+5
+	
+	
+	
+	
+	
+2
+5
+	
+	
+	
+3
+3
+	
+	
+	
+	
+	
+	
+0
+3
+	
+	
+2
+5
+	
+	
+	
+	
+	
+	
+	
+3
+1
+	
+1
+1
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-1
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+-3
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10a137
+L10a139
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a138&oldid=112213
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:57.

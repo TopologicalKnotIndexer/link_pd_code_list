@@ -1,0 +1,347 @@
+[
+edit	L11a106	Quick	Notes
+]
+L11a105
+L11a107
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a106	Further	Notes	and	Views
+]
+L11a106
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a106
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-10,2,-11:10,-1,3,-6,5,-8,7,-9,11,-2,9,-3,4,-5,8,-7,6,-4)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a106's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+14,3,15,4
+	X
+16,8,17,7
+	X
+22,18,5,17
+	X
+18,9,19,10
+	X
+8,21,9,22
+	X
+20,11,21,12
+	X
+10,19,11,20
+	X
+12,16,13,15
+	X
+2536
+	X
+4,13,1,14
+Gauss	code
+{1,	-10,	2,	-11},	{10,	-1,	3,	-6,	5,	-8,	7,	-9,	11,	-2,	9,	-3,	4,	-5,	8,	-7,	6,	-4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+Failed	to	parse	(SVG	(MathML	can	be	enabled	via	browser	plugin):	Invalid	response	("Math	extension	cannot	connect	to	Restbase.")	from	server	"https://wikimedia.org/api/rest_v1/":):	{\displaystyle	a^9	z+a^9	z^{-1}	-3	a^7	z^3-6	a^7	z-3	a^7	z^{-1}	+3	a^5	z^5+9	a^5	z^3+9	a^5	z+4	a^5	z^{-1}	-a^3	z^7-4	a^3	z^5-7	a^3	z^3-6	a^3	z-2	a^3	z^{-1}	+a	z^5+2	a	z^3}
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+χ
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+3
+0
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+	
+-3
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+8
+3
+	
+	
+5
+-4
+	
+	
+	
+	
+	
+	
+	
+9
+5
+	
+	
+	
+-4
+-6
+	
+	
+	
+	
+	
+	
+10
+7
+	
+	
+	
+	
+3
+-8
+	
+	
+	
+	
+	
+8
+9
+	
+	
+	
+	
+	
+1
+-10
+	
+	
+	
+	
+8
+10
+	
+	
+	
+	
+	
+	
+-2
+-12
+	
+	
+	
+5
+9
+	
+	
+	
+	
+	
+	
+	
+4
+-14
+	
+	
+2
+7
+	
+	
+	
+	
+	
+	
+	
+	
+-5
+-16
+	
+1
+5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+-18
+	
+2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-2
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+
+L11a105
+L11a107
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a106&oldid=111966
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:47.

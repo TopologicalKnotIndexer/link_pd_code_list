@@ -1,0 +1,271 @@
+[
+edit	L10n55	Quick	Notes
+]
+L10n54
+L10n56
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n55	Further	Notes	and	Views
+]
+L10n55
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n55
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,10,-5,9,-8,7,-6,-3:3,-1,-2,5,-7,6,-10,2,-4,8,-9,4)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n55's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+10,1,11,2
+	X
+11,17,12,16
+	X
+8,9,1,10
+	X
+17,9,18,20
+	X
+3,12,4,13
+	X
+7,14,8,15
+	X
+13,6,14,7
+	X
+5,18,6,19
+	X
+19,4,20,5
+	X
+15,2,16,3
+Gauss	code
+{1,	10,	-5,	9,	-8,	7,	-6,	-3},	{3,	-1,	-2,	5,	-7,	6,	-10,	2,	-4,	8,	-9,	4}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-3	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-2
+	
+	
+	
+	
+	
+	
+	
+	
+2
+2
+-4
+	
+	
+	
+	
+	
+	
+	
+3
+1
+-2
+-6
+	
+	
+	
+	
+	
+	
+3
+1
+	
+2
+-8
+	
+	
+	
+	
+	
+4
+3
+	
+	
+-1
+-10
+	
+	
+	
+	
+3
+3
+	
+	
+	
+0
+-12
+	
+	
+	
+3
+4
+	
+	
+	
+	
+1
+-14
+	
+	
+2
+3
+	
+	
+	
+	
+	
+-1
+-16
+	
+	
+3
+	
+	
+	
+	
+	
+	
+3
+-18
+1
+2
+	
+	
+	
+	
+	
+	
+	
+-1
+-20
+1
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+
+L10n54
+L10n56
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n55&oldid=111798
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:41.

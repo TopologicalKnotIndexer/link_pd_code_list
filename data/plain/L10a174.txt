@@ -1,0 +1,329 @@
+[
+edit	L10a174	Quick	Notes
+]
+Five	linked
+circles.
+Decorative
+pentagonal
+representation.
+(alternate
+version)
+Highly
+ornamental
+version.
+Quasi-yin-yang.
+L10a173
+L10n1
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10a174	Further	Notes	and	Views
+]
+L10a174
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10a174
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-2,4,-5:2,-1,6,-7:5,-4,3,-10:7,-6,8,-9:10,-3,9,-8)
+	at	
+Knotilus
+(http://knotilus.math.uwo.ca/)
+!
+L10a174
+	is	a	closed	five-link	chain.
+Link	Presentations
+[
+edit	Notes	on	L10a174's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+2536
+	X
+18,11,19,12
+	X
+10,3,11,4
+	X
+4,9,1,10
+	X
+14,7,15,8
+	X
+8,13,5,14
+	X
+20,15,17,16
+	X
+16,19,13,20
+	X
+12,17,9,18
+Gauss	code
+{1,	-2,	4,	-5},	{2,	-1,	6,	-7},	{5,	-4,	3,	-10},	{7,	-6,	8,	-9},	{10,	-3,	9,	-8}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+Jones
+polynomial
+	(
+db
+)
+Signature
+-4	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+χ
+-3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+-5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1
+-3
+-7
+	
+	
+	
+	
+	
+	
+	
+	
+6
+	
+	
+6
+-9
+	
+	
+	
+	
+	
+	
+	
+4
+4
+	
+	
+0
+-11
+	
+	
+	
+	
+	
+	
+11
+6
+	
+	
+	
+5
+-13
+	
+	
+	
+	
+	
+10
+14
+	
+	
+	
+	
+4
+-15
+	
+	
+	
+	
+5
+1
+	
+	
+	
+	
+	
+4
+-17
+	
+	
+	
+1
+10
+	
+	
+	
+	
+	
+	
+9
+-19
+	
+	
+5
+5
+	
+	
+	
+	
+	
+	
+	
+0
+-21
+	
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+5
+-23
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-25
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+		
+
+L10a173
+L10n1
+(
+db
+,	
+data	source
+)
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10a174&oldid=111600
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:33.

@@ -1,0 +1,306 @@
+[
+edit	L10n25	Quick	Notes
+]
+L10n24
+L10n26
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L10n25	Further	Notes	and	Views
+]
+L10n25
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L10n25
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-9,2,-10:9,-1,-4,5,10,-2,-3,8,-7,4,-5,3,-6,7,-8,6)
+	at	
+Knotilus
+	(http://knotilus.math.uwo.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L10n25's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+10,3,11,4
+	X
+11,17,12,16
+	X
+7,15,8,14
+	X
+15,9,16,8
+	X
+17,5,18,20
+	X
+13,18,14,19
+	X
+19,12,20,13
+	X
+2536
+	X
+4,9,1,10
+Gauss	code
+{1,	-9,	2,	-10},	{9,	-1,	-4,	5,	10,	-2,	-3,	8,	-7,	4,	-5,	3,	-6,	7,	-8,	6}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+1	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+χ
+8
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+6
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+4
+	
+	
+	
+	
+	
+	
+	
+1
+1
+1
+	
+-1
+2
+	
+	
+	
+	
+	
+	
+1
+1
+	
+	
+	
+0
+0
+	
+	
+	
+	
+	
+1
+2
+1
+	
+	
+	
+0
+-2
+	
+	
+	
+	
+1
+2
+2
+	
+	
+	
+	
+1
+-4
+	
+	
+	
+1
+1
+	
+	
+	
+	
+	
+	
+0
+-6
+	
+	
+1
+1
+1
+	
+	
+	
+	
+	
+	
+1
+-8
+	
+1
+2
+	
+	
+	
+	
+	
+	
+	
+	
+1
+-10
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+0
+-12
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+Modifying	This	Page
+
+L10n24
+L10n26
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L10n25&oldid=111008
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:09.

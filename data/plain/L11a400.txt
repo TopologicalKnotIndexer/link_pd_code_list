@@ -1,0 +1,349 @@
+[
+edit	L11a400	Quick	Notes
+]
+L11a399
+L11a401
+Contents
+1
+Link
+Presentations
+2
+Polynomial
+invariants
+3
+Khovanov
+Homology
+4
+Computer
+Talk
+5
+Modifying
+This	Page
+[
+edit	L11a400	Further	Notes	and	Views
+]
+L11a400
+From	Knot	Atlas
+(
+Knotscape
+	image)
+See	the	full	
+Thistlethwaite	Link	Table
+	(up	to	11	crossings).
+Visit	
+L11a400
+	(http://knotilus.math.uwo.ca/draw.php?knot=1,-4,3,-9:2,-1,5,-3,7,-8:6,-2,4,-5,9,-11,10,-6,8,-7,11,-10)
+	at	
+Knotilus
+	(http://knotilus.math.uw
+o.ca/)
+!
+Link	Presentations
+[
+edit	Notes	on	L11a400's	Link	Presentations
+]
+Planar	diagram	presentation
+X
+6172
+	X
+12,6,13,5
+	X
+8493
+	X
+2,14,3,13
+	X
+14,7,15,8
+	X
+18,12,19,11
+	X
+20,9,21,10
+	X
+10,19,5,20
+	X
+4,15,1,16
+	X
+22,18,11,17
+	X
+16,22,17,21
+Gauss	code
+{1,	-4,	3,	-9},	{2,	-1,	5,	-3,	7,	-8},	{6,	-2,	4,	-5,	9,	-11,	10,	-6,	8,	-7,	11,	-10}
+A	Braid	Representative
+A	Morse	Link	Presentation
+Polynomial	invariants
+Multivariable
+Alexander
+Polynomial
+	(in
+,	
+,	
+,	...)
+	(
+db
+)
+Jones
+polynomial
+	(
+db
+)
+Signature
+2	(
+db
+)
+HOMFLY-
+PT	polynomial
+	(
+db
+)
+Kauffman
+polynomial
+(
+db
+)
+Khovanov	Homology
+The	coefficients	of	the	monomials	
+	are	shown,	along
+with	their	alternating	sums	
+	(fixed	
+,	alternation	over	
+).
+		
+\
+	
+r
+	
+	\	
+	
+j
+	
+\
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+χ
+15
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+1
+13
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+-3
+11
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+1
+	
+4
+9
+	
+	
+	
+	
+	
+	
+	
+	
+9
+3
+	
+	
+-6
+7
+	
+	
+	
+	
+	
+	
+	
+9
+5
+	
+	
+	
+4
+5
+	
+	
+	
+	
+	
+	
+11
+9
+	
+	
+	
+	
+-2
+3
+	
+	
+	
+	
+	
+10
+9
+	
+	
+	
+	
+	
+1
+1
+	
+	
+	
+	
+8
+13
+	
+	
+	
+	
+	
+	
+5
+-1
+	
+	
+	
+6
+8
+	
+	
+	
+	
+	
+	
+	
+-2
+-3
+	
+	
+3
+10
+	
+	
+	
+	
+	
+	
+	
+	
+7
+-5
+	
+1
+4
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-3
+-7
+	
+3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+-9
+1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-1
+Integral	Khovanov	Homology
+(
+db
+,	
+data	source
+)
+		
+Computer	Talk
+Much	of	the	above	data	can	be	recomputed	by	
+Mathematica
+	(http://www.wolfram.com/)
+	using	the	package	
+KnotTheory`
+.	See	
+A	Sample	KnotTheory`	Session
+.
+
+L11a399
+L11a401
+Modifying	This	Page
+Read	me	first:
+	
+Modifying	Knot	Pages
+See/edit	the	
+Link	Page
+	master	template	(intermediate).
+See/edit	the	
+Link_Splice_Base
+	(expert).
+Back	to	the	
+top
+.
+Retrieved	from	"
+https://katlas.org/index.php?title=L11a400&oldid=112268
+"
+This	page	was	last	edited	on	3	September	2005,	at	03:59.
