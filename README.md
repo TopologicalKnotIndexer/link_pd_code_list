@@ -25,7 +25,7 @@ python scripts/extract_pdcode.py
 
 ## Algorithm
 
-The maintenance scripts download or read source pages, convert PDF pages to plain text, extract link names and PD expressions with constrained regular expressions, discard empty artifacts, and concatenate normalized records. The committed output is data, not a runtime Python package.
+The maintenance scripts download or read source pages, convert PDF pages to plain text, extract exactly one link name/PD expression per page, discard empty artifacts, and atomically write normalized records. Any malformed or missing page stops the build instead of being silently skipped. The committed output contains 1,424 unique tabulated-link records; every name, crossing count, label range, and twice-occurrence invariant is checked by `scripts/validate_pd_code_list.py`.
 
 ## Input conventions
 
@@ -39,12 +39,14 @@ A PD code is represented as a list of four-entry crossings. Arc labels normally 
 
 ## Development
 
-Run examples and package checks before release. Python packages require Python 3.10 or newer. Build PyPI artifacts with:
+Validate the committed dataset and run maintenance-script tests with Python 3.10 or newer:
 
 ```bash
-poetry check
-poetry build
+python scripts/validate_pd_code_list.py
+python -m unittest discover -s tests -v
 ```
+
+This data repository has no PyPI publication step.
 
 ## License
 

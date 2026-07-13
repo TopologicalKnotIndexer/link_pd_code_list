@@ -1,80 +1,90 @@
-import os
+"""Extract one validated PD code from each tabulated-link text page."""
+
+from argparse import ArgumentParser
+from ast import literal_eval
+from collections import Counter
+from pathlib import Path
 import re
-import sys
 
-def process_pdcode(s:str):
-    lis = [item.strip() for item in s.split("X") if item.strip() != ""]
-    ans = []
-    for item in lis:
-        if len(item) == 4:
-            ans.append([int(ch) for ch in item])
+
+PD_BLOCK = re.compile(r"((?:X\s*[\d,\s]+)+)", re.DOTALL)
+LINK_NAME = re.compile(r"L(?P<crossings>\d+)[an]\d+")
+
+
+def process_pdcode(text: str) -> list[list[int]]:
+    crossings = []
+    for raw_item in text.split("X"):
+        item = re.sub(r"\s", "", raw_item)
+        if not item:
+            continue
+        if "," in item:
+            parts = item.split(",")
+        elif len(item) == 4 and item.isdigit():
+            parts = list(item)
         else:
-            assert item.find(",") != -1
-            ans.append([int(x) for x in item.split(",")])
-    return ans
+            raise ValueError(f"ambiguous crossing encoding: {item!r}")
+        if len(parts) != 4 or any(not part.isdigit() for part in parts):
+            raise ValueError(f"crossing must contain four positive labels: {item!r}")
+        crossings.append([int(part) for part in parts])
+    return crossings
 
-def main():
-    # 检查命令行参数
-    if len(sys.argv) != 3:
-        print("用法: python extract_pdcode.py <输入文件夹> <输出文件>")
-        sys.exit(1)
-    
-    input_folder = sys.argv[1]
-    output_file = sys.argv[2]
-    
-    # 验证输入文件夹是否存在
-    if not os.path.isdir(input_folder):
-        print(f"错误: 文件夹 '{input_folder}' 不存在")
-        sys.exit(1)
-    
-    # 定义正则表达式模式
-    pattern = r'((X(\s)*([\d,\s]+))+)'
-    cnt = 0
-    
-    try:
-        # 编译正则表达式
-        regex = re.compile(pattern, re.DOTALL)
-        
-        # 打开输出文件
-        with open(output_file, 'w', encoding='utf-8') as outfile:
-            # 遍历文件夹中的所有文件
-            for filename in sorted(os.listdir(input_folder)):
-                # 只处理 .txt 文件
-                if filename.endswith('.txt'):
-                    file_path = os.path.join(input_folder, filename)
-                    
-                    try:
-                        # 读取文件内容
-                        with open(file_path, 'r', encoding='utf-8') as infile:
-                            content = infile.read()
-                        
-                        # 查找所有匹配项
-                        matches = regex.finditer(content)
-                        
-                        # 处理匹配结果
-                        for match in matches:
-                            # 获取完整匹配内容
-                            full_match = match.group(0)
-                            
-                            # 移除所有空白字符
-                            cleaned_match = process_pdcode(re.sub(r'\s', '', full_match))
-                            
-                            # 计算交叉点个数
-                            crossing_number = int(filename[:-4][1:].split("a")[0].split("n")[0])
-                            assert crossing_number == len(cleaned_match)
 
-                            # 写入输出文件
-                            outfile.write(f"{filename[:-4]}:{cleaned_match}\n")
-                            cnt += 1
-                    
-                    except Exception as e:
-                        print(f"处理文件 '{filename}' 时出错: {e}")
-    
-    except Exception as e:
-        print(f"执行过程中出错: {e}")
-        sys.exit(1)
-    
-    print("成功处理了 %d 个扭结 ..." % cnt)
+def validate_record(name: str, pd_code: list[list[int]]) -> None:
+    match = LINK_NAME.fullmatch(name)
+    if match is None:
+        raise ValueError(f"invalid tabulated-link name: {name!r}")
+    crossing_count = int(match.group("crossings"))
+    if len(pd_code) != crossing_count:
+        raise ValueError(
+            f"{name} declares {crossing_count} crossings but contains {len(pd_code)}"
+        )
+    counts = Counter(label for crossing in pd_code for label in crossing)
+    expected = set(range(1, 2 * crossing_count + 1))
+    if set(counts) != expected or any(count != 2 for count in counts.values()):
+        raise ValueError(f"{name} labels must be 1..2n and occur exactly twice")
+
+
+def extract_folder(input_folder: str | Path) -> list[tuple[str, list[list[int]]]]:
+    folder = Path(input_folder)
+    if not folder.is_dir():
+        raise NotADirectoryError(folder)
+    records = []
+    names = set()
+    for path in sorted(folder.glob("L*.txt"), key=lambda item: item.name):
+        matches = list(PD_BLOCK.finditer(path.read_text(encoding="utf-8-sig")))
+        if len(matches) != 1:
+            raise ValueError(f"expected one PD block in {path}, found {len(matches)}")
+        name = path.stem
+        pd_code = process_pdcode(matches[0].group(0))
+        validate_record(name, pd_code)
+        if name in names:
+            raise ValueError(f"duplicate link name: {name}")
+        names.add(name)
+        records.append((name, pd_code))
+    return records
+
+
+def write_records(records: list[tuple[str, list[list[int]]]], output_file: str | Path):
+    output = Path(output_file)
+    temporary = output.with_name(output.name + ".tmp")
+    temporary.write_text(
+        "".join(f"{name}:{pd_code}\n" for name, pd_code in records),
+        encoding="utf-8",
+        newline="\n",
+    )
+    temporary.replace(output)
+
+
+def main() -> int:
+    parser = ArgumentParser(description=__doc__)
+    parser.add_argument("input_folder")
+    parser.add_argument("output_file")
+    args = parser.parse_args()
+    records = extract_folder(args.input_folder)
+    write_records(records, args.output_file)
+    print(f"extracted {len(records)} tabulated links")
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

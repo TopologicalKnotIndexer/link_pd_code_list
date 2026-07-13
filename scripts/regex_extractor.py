@@ -1,40 +1,29 @@
+"""Extract unique Knot Atlas link-table URLs from an HTML document."""
+
+from argparse import ArgumentParser
+from pathlib import Path
 import re
-import sys
 
-def extract_patterns(file_path):
-    """从文件中提取匹配的模式并去重"""
-    pattern = r'("/wiki/L\d+(a|n)\d+")'
-    unique_matches = set()
-    
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            for line in file:
-                # 查找所有匹配的内容
-                matches = re.findall(pattern, line)
-                unique_matches.update(matches)
-    except FileNotFoundError:
-        print(f"错误：文件 '{file_path}' 不存在。")
-        return []
-    except Exception as e:
-        print(f"错误：读取文件时发生异常：{e}")
-        return []
-    
-    # 将集合转换为列表并排序
-    sorted_matches = sorted(unique_matches)
-    return sorted_matches
 
-def main():
-    if len(sys.argv) != 3:
-        print("用法：python regex_extractor.py <输入路径> <输出路径>")
-        sys.exit(1)
-    
-    file_path = sys.argv[1]
-    patterns = extract_patterns(file_path)
-    
-    # 输出结果
-    with open(sys.argv[2], "w") as fp:
-        for pattern in patterns:
-            fp.write("https://katlas.org" + pattern[0][1:-1] + "\n")
+LINK_PATH = re.compile(r'"(?P<path>/wiki/L\d+(?:a|n)\d+)"')
+
+
+def extract_patterns(file_path: str | Path) -> list[str]:
+    source = Path(file_path)
+    text = source.read_text(encoding="utf-8-sig")
+    return sorted({match.group("path") for match in LINK_PATH.finditer(text)})
+
+
+def main() -> int:
+    parser = ArgumentParser(description=__doc__)
+    parser.add_argument("input_path")
+    parser.add_argument("output_path")
+    args = parser.parse_args()
+    urls = ["https://katlas.org" + path for path in extract_patterns(args.input_path)]
+    Path(args.output_path).write_text("\n".join(urls) + "\n", encoding="utf-8")
+    print(f"extracted {len(urls)} URLs")
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
