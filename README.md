@@ -1,20 +1,50 @@
 # link-pd-code-list
 
-Source data and extraction scripts for the prime-link PD-code catalogue.
+Maintain the source material and normalized PD-code list for tabulated links.
 
 ## Installation
 
-The normalized catalogue is `data/pd_code_list.txt`; scripts under `scripts/` rebuild it from source material.
+Clone the repository. The ready-to-use normalized file is `data/pd_code_list.txt`.
 
-## Quick start
+## Usage example
 
-The normalized catalogue is `data/pd_code_list.txt`; scripts under `scripts/` rebuild it from source material.
+```python
+from pathlib import Path
 
-PD codes are lists of four-entry crossings. Each arc label must occur exactly twice. Functions validate their inputs and do not mutate caller-owned PD-code lists unless explicitly documented.
+rows = Path("data/pd_code_list.txt").read_text(encoding="utf-8").splitlines()
+name, pd_text = rows[0].split(":", 1)
+print(name, pd_text.strip())
+```
+
+To rebuild extracted text:
+
+```bash
+python scripts/pdf_to_text.py
+python scripts/extract_pdcode.py
+```
+
+## Algorithm
+
+The maintenance scripts download or read source pages, convert PDF pages to plain text, extract link names and PD expressions with constrained regular expressions, discard empty artifacts, and concatenate normalized records. The committed output is data, not a runtime Python package.
+
+## Input conventions
+
+A PD code is represented as a list of four-entry crossings. Arc labels normally occur exactly twice. Public functions validate inputs and return new values rather than mutating caller-owned data unless their API explicitly says otherwise.
+
+## External software
+
+- Poppler's `pdftotext` command is required when rebuilding text from PDF files.
+- Network access is required only when refreshing source pages.
+- No external software is needed to consume the committed `data/pd_code_list.txt`.
 
 ## Development
 
-Use Python 3.10 or newer for Python packages. Build distributions with `poetry build`. Run the package's tests or examples before publishing. C++ projects require a modern standards-compliant compiler.
+Run examples and package checks before release. Python packages require Python 3.10 or newer. Build PyPI artifacts with:
+
+```bash
+poetry check
+poetry build
+```
 
 ## License
 
