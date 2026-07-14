@@ -51,3 +51,16 @@ This data repository has no PyPI publication step.
 ## License
 
 MIT. See `LICENSE`.
+
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_link_pd_code_list,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{link\_pd\_code\_list}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/link_pd_code_list}
+}
+```
